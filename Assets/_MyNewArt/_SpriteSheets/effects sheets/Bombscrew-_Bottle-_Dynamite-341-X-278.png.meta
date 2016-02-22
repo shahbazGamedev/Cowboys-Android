@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: e298ed730629a194893d43bce53d3ae2
+timeCreated: 1449043445
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bombscrew-_Bottle-_Dynamite-341-X-278_0
+    21300002: Bombscrew-_Bottle-_Dynamite-341-X-278_1
+    21300004: Bombscrew-_Bottle-_Dynamite-341-X-278_2
+    21300006: Bombscrew-_Bottle-_Dynamite-341-X-278_3
+    21300008: Bombscrew-_Bottle-_Dynamite-341-X-278_4
+    21300010: Bombscrew-_Bottle-_Dynamite-341-X-278_5
+    21300012: Bombscrew-_Bottle-_Dynamite-341-X-278_6
+    21300014: Bombscrew-_Bottle-_Dynamite-341-X-278_7
+    21300016: Bombscrew-_Bottle-_Dynamite-341-X-278_8
+    21300018: Bombscrew-_Bottle-_Dynamite-341-X-278_9
+    21300020: Bombscrew-_Bottle-_Dynamite-341-X-278_10
+    21300022: Bombscrew-_Bottle-_Dynamite-341-X-278_11
+    21300024: Bombscrew-_Bottle-_Dynamite-341-X-278_12
+    21300026: Bombscrew-_Bottle-_Dynamite-341-X-278_13
+    21300028: Bombscrew-_Bottle-_Dynamite-341-X-278_14
+    21300030: Bombscrew-_Bottle-_Dynamite-341-X-278_15
+    21300032: Bombscrew-_Bottle-_Dynamite-341-X-278_16
+    21300034: Bombscrew-_Bottle-_Dynamite-341-X-278_17
+    21300036: Bombscrew-_Bottle-_Dynamite-341-X-278_18
+    21300038: Bombscrew-_Bottle-_Dynamite-341-X-278_19
+    21300040: Bombscrew-_Bottle-_Dynamite-341-X-278_20
+    21300042: Bombscrew-_Bottle-_Dynamite-341-X-278_21
+    21300044: Bombscrew-_Bottle-_Dynamite-341-X-278_22
+    21300046: Bombscrew-_Bottle-_Dynamite-341-X-278_23
+    21300048: Bombscrew-_Bottle-_Dynamite-341-X-278_24
+    21300050: Bombscrew-_Bottle-_Dynamite-341-X-278_25
+    21300052: Bombscrew-_Bottle-_Dynamite-341-X-278_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_13
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_14
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 908
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 908
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_22
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_23
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bombscrew-_Bottle-_Dynamite-341-X-278_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

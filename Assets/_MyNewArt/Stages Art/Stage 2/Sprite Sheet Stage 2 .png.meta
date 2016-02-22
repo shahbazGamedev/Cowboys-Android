@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 36ac9d661f4ef7d40a7909fe59b54a09
+timeCreated: 1448952987
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cloud
+    21300002: spongwithfork
+    21300004: sky
+    21300006: barmel 3
+    21300008: fork
+    21300010: barmel smal
+    21300012: soor
+    21300014: land
+    21300016: hadaba big
+    21300018: barmel 2
+    21300020: blur
+    21300022: cow head
+    21300024: barmel big
+    21300026: hadaba small
+    21300028: tree right
+    21300030: seat left
+    21300032: tree
+    21300034: Sprite Sheet Stage 2 _21
+    21300036: home
+    21300038: hadaba verysmall
+    21300040: seat right
+    21300042: mountains
+    21300044: soor small
+    21300046: FG
+    21300048: plant
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: cloud
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 1844
+        height: 334
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spongwithfork
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1881
+        width: 180
+        height: 165
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sky
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1424
+        width: 14
+        height: 622
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barmel 3
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1792
+        width: 168
+        height: 87
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fork
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1625
+        width: 123
+        height: 165
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barmel smal
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1733
+        width: 50
+        height: 57
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soor
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1528
+        width: 1767
+        height: 182
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: land
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1566
+        width: 12
+        height: 165
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hadaba big
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1322
+        width: 1478
+        height: 204
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barmel 2
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1468
+        width: 88
+        height: 58
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blur
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 843
+        width: 84
+        height: 652
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cow head
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1040
+        width: 229
+        height: 524
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barmel big
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1379
+        width: 76
+        height: 87
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hadaba small
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 887
+        width: 877
+        height: 435
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree right
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 907
+        width: 278
+        height: 413
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seat left
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1214
+        width: 400
+        height: 106
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 851
+        width: 295
+        height: 359
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Stage 2 _21
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 814
+        width: 339
+        height: 224
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: home
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 255
+        width: 1040
+        height: 557
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hadaba verysmall
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 658
+        width: 609
+        height: 183
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seat right
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 710
+        width: 391
+        height: 102
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mountains
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 259
+        width: 838
+        height: 397
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: soor small
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 718
+        height: 251
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FG
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 63
+        width: 820
+        height: 190
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plant
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 112
+        width: 108
+        height: 73
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

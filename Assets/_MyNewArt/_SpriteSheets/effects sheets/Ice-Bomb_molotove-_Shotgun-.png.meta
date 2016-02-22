@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 624255e1c2373b94bb51548dd1db3d87
+timeCreated: 1449241561
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ice-Bomb_molotove-_Shotgun-_0
+    21300002: Ice-Bomb_molotove-_Shotgun-_1
+    21300004: Ice-Bomb_molotove-_Shotgun-_2
+    21300006: Ice-Bomb_molotove-_Shotgun-_3
+    21300008: Ice-Bomb_molotove-_Shotgun-_4
+    21300010: Ice-Bomb_molotove-_Shotgun-_5
+    21300012: Ice-Bomb_molotove-_Shotgun-_6
+    21300014: Ice-Bomb_molotove-_Shotgun-_7
+    21300016: Ice-Bomb_molotove-_Shotgun-_8
+    21300018: Ice-Bomb_molotove-_Shotgun-_9
+    21300020: Ice-Bomb_molotove-_Shotgun-_10
+    21300022: Ice-Bomb_molotove-_Shotgun-_11
+    21300024: Ice-Bomb_molotove-_Shotgun-_12
+    21300026: Ice-Bomb_molotove-_Shotgun-_13
+    21300028: Ice-Bomb_molotove-_Shotgun-_14
+    21300030: Ice-Bomb_molotove-_Shotgun-_15
+    21300032: Ice-Bomb_molotove-_Shotgun-_16
+    21300034: Ice-Bomb_molotove-_Shotgun-_17
+    21300036: Ice-Bomb_molotove-_Shotgun-_18
+    21300038: Ice-Bomb_molotove-_Shotgun-_19
+    21300040: Ice-Bomb_molotove-_Shotgun-_20
+    21300042: Ice-Bomb_molotove-_Shotgun-_21
+    21300044: Ice-Bomb_molotove-_Shotgun-_22
+    21300046: Ice-Bomb_molotove-_Shotgun-_23
+    21300048: Ice-Bomb_molotove-_Shotgun-_24
+    21300050: Ice-Bomb_molotove-_Shotgun-_25
+    21300052: Ice-Bomb_molotove-_Shotgun-_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 130
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Ice-Bomb_molotove-_Shotgun-_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_13
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_14
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 908
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 908
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_22
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_23
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ice-Bomb_molotove-_Shotgun-_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

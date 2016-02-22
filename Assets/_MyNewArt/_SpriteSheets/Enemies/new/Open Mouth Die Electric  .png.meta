@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: ae3b3dc59754f6a44ba17e7dfa434a47
+timeCreated: 1454951247
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Open Mouth Die Electric  _0
+    21300002: Open Mouth Die Electric  _1
+    21300004: Open Mouth Die Electric  _2
+    21300006: Open Mouth Die Electric  _3
+    21300008: Open Mouth Die Electric  _4
+    21300010: Open Mouth Die Electric  _5
+    21300012: Open Mouth Die Electric  _6
+    21300014: Open Mouth Die Electric  _7
+    21300016: Open Mouth Die Electric  _8
+    21300018: Open Mouth Die Electric  _9
+    21300020: Open Mouth Die Electric  _10
+    21300022: Open Mouth Die Electric  _11
+    21300024: Open Mouth Die Electric  _12
+    21300026: Open Mouth Die Electric  _13
+    21300028: Open Mouth Die Electric  _14
+    21300030: Open Mouth Die Electric  _15
+    21300032: Open Mouth Die Electric  _16
+    21300034: Open Mouth Die Electric  _17
+    21300036: Open Mouth Die Electric  _18
+    21300038: Open Mouth Die Electric  _19
+    21300040: Open Mouth Die Electric  _20
+    21300042: Open Mouth Die Electric  _21
+    21300044: Open Mouth Die Electric  _22
+    21300046: Open Mouth Die Electric  _23
+    21300048: Open Mouth Die Electric  _24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 260
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Open Mouth Die Electric  _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1703
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: 59.5}
+        - {x: -96, y: 18.5}
+        - {x: -82, y: -10.5}
+        - {x: -42, y: -82.5}
+        - {x: 38, y: -82.5}
+        - {x: 92, y: -70.5}
+        - {x: 134, y: -35.5}
+        - {x: 134, y: 30.5}
+        - {x: 19, y: 59.5}
+    - name: Open Mouth Die Electric  _1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1703
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: 64.5}
+        - {x: -17, y: 64.5}
+        - {x: -18, y: 60.5}
+        - {x: -17, y: 53.5}
+        - {x: -18, y: 39.5}
+        - {x: -13, y: 32.5}
+        - {x: -19, y: 38.5}
+        - {x: -18, y: 41.5}
+        - {x: -18, y: 48.5}
+        - {x: -21, y: 58.5}
+        - {x: -25, y: 64.5}
+        - {x: -39, y: 64.5}
+        - {x: -48, y: 62.5}
+        - {x: -57, y: 34.5}
+        - {x: -55, y: 38.5}
+        - {x: -64, y: 31.5}
+        - {x: -106, y: 37.5}
+        - {x: -106, y: -96.5}
+        - {x: 95, y: -96.5}
+        - {x: 103, y: -70.5}
+        - {x: 94, y: -60.5}
+        - {x: 155, y: -42.5}
+    - name: Open Mouth Die Electric  _2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1703
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: 69.5}
+        - {x: 123, y: 71.5}
+        - {x: -60, y: 71.5}
+        - {x: -81, y: 58.5}
+        - {x: -63, y: 39.5}
+        - {x: -90, y: 44.5}
+        - {x: -106, y: 15.5}
+        - {x: -106, y: -80.5}
+        - {x: -57, y: -125.5}
+        - {x: 50, y: -125.5}
+        - {x: 148, y: -29.5}
+        - {x: 155, y: -11.5}
+        - {x: 155, y: 25.5}
+    - name: Open Mouth Die Electric  _3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1703
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 90.5}
+        - {x: -12, y: 90.5}
+        - {x: -23, y: 83.5}
+        - {x: -26, y: 70.5}
+        - {x: -15, y: 57.5}
+        - {x: -35, y: 75.5}
+        - {x: -76, y: 78.5}
+        - {x: -88, y: 55.5}
+        - {x: -85, y: 40.5}
+        - {x: -80, y: 37.5}
+        - {x: -72, y: 37.5}
+        - {x: -69, y: 38.5}
+        - {x: -104, y: -11.5}
+        - {x: -133, y: -53.5}
+        - {x: -133, y: -122.5}
+        - {x: -36, y: -140.5}
+        - {x: 76, y: -140.5}
+        - {x: 147, y: -76.5}
+        - {x: 147, y: 20.5}
+        - {x: 137, y: 36.5}
+    - name: Open Mouth Die Electric  _4
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1703
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 193, y: -106.5}
+        - {x: 193, y: -66.5}
+        - {x: 152, y: -14.5}
+        - {x: 122, y: 14.5}
+        - {x: 30, y: 97.5}
+        - {x: -4, y: 105.5}
+        - {x: -63, y: 105.5}
+        - {x: -95, y: 83.5}
+        - {x: -87, y: 63.5}
+        - {x: -71, y: 65.5}
+        - {x: -99, y: 28.5}
+        - {x: -119, y: -23.5}
+        - {x: -151, y: -66.5}
+        - {x: -151, y: -106.5}
+        - {x: -105, y: -140.5}
+        - {x: -49, y: -144.5}
+        - {x: -32, y: -158.5}
+        - {x: 38, y: -158.5}
+        - {x: 42, y: -157.5}
+        - {x: 47, y: -147.5}
+        - {x: 44, y: -125.5}
+        - {x: 188, y: -120.5}
+    - name: Open Mouth Die Electric  _5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1358
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 193, y: -67.5}
+        - {x: 165, y: -23.5}
+        - {x: 83, y: 45.5}
+        - {x: 58, y: 88.5}
+        - {x: 23, y: 110.5}
+        - {x: -38, y: 110.5}
+        - {x: -106, y: 86.5}
+        - {x: -106, y: 61.5}
+        - {x: -99, y: 52.5}
+        - {x: -94, y: 52.5}
+        - {x: -83, y: 56.5}
+        - {x: -104, y: 16.5}
+        - {x: -151, y: -44.5}
+        - {x: -151, y: -104.5}
+        - {x: -131, y: -135.5}
+        - {x: -52, y: -151.5}
+        - {x: -43, y: -156.5}
+        - {x: 63, y: -156.5}
+        - {x: 61, y: -122.5}
+        - {x: 190, y: -120.5}
+        - {x: 193, y: -108.5}
+      - - {x: 74, y: 117.5}
+        - {x: 62, y: 109.5}
+        - {x: 62, y: 51.5}
+        - {x: 102, y: 51.5}
+        - {x: 117, y: 57.5}
+        - {x: 117, y: 104.5}
+        - {x: 108, y: 117.5}
+    - name: Open Mouth Die Electric  _6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1358
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 194, y: -74.5}
+        - {x: 164, y: -51.5}
+        - {x: 118, y: -44.5}
+        - {x: 114, y: 9.5}
+        - {x: 124, y: 37.5}
+        - {x: 130, y: 70.5}
+        - {x: 117, y: 85.5}
+        - {x: 96, y: 87.5}
+        - {x: -9, y: 107.5}
+        - {x: -66, y: 107.5}
+        - {x: -118, y: 73.5}
+        - {x: -118, y: -52.5}
+        - {x: -112, y: -74.5}
+        - {x: -118, y: -83.5}
+        - {x: -118, y: -128.5}
+        - {x: -52, y: -145.5}
+        - {x: -43, y: -156.5}
+        - {x: 123, y: -156.5}
+        - {x: 143, y: -136.5}
+        - {x: 194, y: -128.5}
+    - name: Open Mouth Die Electric  _7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1358
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: 20.5}
+        - {x: 147, y: 77.5}
+        - {x: 96, y: 99.5}
+        - {x: 24, y: 110.5}
+        - {x: -12, y: 110.5}
+        - {x: -19, y: 109.5}
+        - {x: -55, y: 105.5}
+        - {x: -115, y: 93.5}
+        - {x: -115, y: 70.5}
+        - {x: -104, y: 53.5}
+        - {x: -94, y: 51.5}
+        - {x: -86, y: 54.5}
+        - {x: -107, y: 12.5}
+        - {x: -115, y: -11.5}
+        - {x: -115, y: -60.5}
+        - {x: -100, y: -129.5}
+        - {x: -65, y: -156.5}
+        - {x: 149, y: -156.5}
+        - {x: 159, y: -135.5}
+        - {x: 159, y: -74.5}
+        - {x: 124, y: -65.5}
+      - - {x: -144, y: -49.5}
+        - {x: -159, y: -60.5}
+        - {x: -159, y: -97.5}
+        - {x: -146, y: -106.5}
+        - {x: -114, y: -106.5}
+        - {x: -111, y: -104.5}
+        - {x: -111, y: -58.5}
+        - {x: -115, y: -49.5}
+    - name: Open Mouth Die Electric  _8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1358
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122, y: 54.5}
+        - {x: 115, y: 71.5}
+        - {x: 27, y: 96.5}
+        - {x: 2, y: 107.5}
+        - {x: -45, y: 107.5}
+        - {x: -82, y: 102.5}
+        - {x: -95, y: 65.5}
+        - {x: -116, y: 0.5}
+        - {x: -116, y: -60.5}
+        - {x: -68, y: -112.5}
+        - {x: -40, y: -156.5}
+        - {x: 45, y: -156.5}
+        - {x: 47, y: -145.5}
+        - {x: 107, y: -68.5}
+        - {x: 122, y: -8.5}
+      - - {x: 76, y: -103.5}
+        - {x: 73, y: -104.5}
+        - {x: 73, y: -122.5}
+        - {x: 76, y: -124.5}
+        - {x: 84, y: -124.5}
+        - {x: 84, y: -104.5}
+        - {x: 83, y: -103.5}
+      - - {x: -144, y: -49.5}
+        - {x: -159, y: -60.5}
+        - {x: -159, y: -97.5}
+        - {x: -146, y: -106.5}
+        - {x: -114, y: -106.5}
+        - {x: -111, y: -104.5}
+        - {x: -111, y: -58.5}
+        - {x: -115, y: -49.5}
+    - name: Open Mouth Die Electric  _9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1358
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: 57.5}
+        - {x: 135, y: 63.5}
+        - {x: 32, y: 110.5}
+        - {x: -34, y: 110.5}
+        - {x: -29, y: 87.5}
+        - {x: -21, y: 81.5}
+        - {x: -63, y: 97.5}
+        - {x: -94, y: 90.5}
+        - {x: -117, y: 40.5}
+        - {x: -163, y: -52.5}
+        - {x: -163, y: -100.5}
+        - {x: -152, y: -120.5}
+        - {x: -144, y: -128.5}
+        - {x: -63, y: -156.5}
+        - {x: 48, y: -156.5}
+        - {x: 57, y: -152.5}
+        - {x: 113, y: -65.5}
+        - {x: 138, y: 20.5}
+      - - {x: 76, y: -103.5}
+        - {x: 73, y: -104.5}
+        - {x: 73, y: -122.5}
+        - {x: 76, y: -124.5}
+        - {x: 84, y: -124.5}
+        - {x: 84, y: -104.5}
+        - {x: 83, y: -103.5}
+    - name: Open Mouth Die Electric  _10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1013
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148, y: -0.5}
+        - {x: 133, y: 36.5}
+        - {x: 28, y: 99.5}
+        - {x: -5, y: 109.5}
+        - {x: -72, y: 109.5}
+        - {x: -100, y: 86.5}
+        - {x: -84, y: 68.5}
+        - {x: -70, y: 70.5}
+        - {x: -105, y: 63.5}
+        - {x: -114, y: 52.5}
+        - {x: -117, y: -2.5}
+        - {x: -163, y: -48.5}
+        - {x: -163, y: -112.5}
+        - {x: -160, y: -125.5}
+        - {x: -24, y: -130.5}
+        - {x: -50, y: -149.5}
+        - {x: -42, y: -154.5}
+        - {x: 45, y: -154.5}
+        - {x: 55, y: -123.5}
+        - {x: 130, y: -82.5}
+        - {x: 148, y: -57.5}
+    - name: Open Mouth Die Electric  _11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1013
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148, y: -63.5}
+        - {x: 149, y: -57.5}
+        - {x: 149, y: 36.5}
+        - {x: 130, y: 55.5}
+        - {x: 63, y: 60.5}
+        - {x: 23, y: 112.5}
+        - {x: -34, y: 112.5}
+        - {x: -29, y: 89.5}
+        - {x: -63, y: 108.5}
+        - {x: -128, y: 62.5}
+        - {x: -128, y: -51.5}
+        - {x: -126, y: -64.5}
+        - {x: -64, y: -118.5}
+        - {x: -58, y: -143.5}
+        - {x: -35, y: -154.5}
+        - {x: 65, y: -154.5}
+        - {x: 92, y: -84.5}
+        - {x: 136, y: -70.5}
+    - name: Open Mouth Die Electric  _12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1013
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 175, y: -26.5}
+        - {x: 163, y: 30.5}
+        - {x: 137, y: 69.5}
+        - {x: 18, y: 109.5}
+        - {x: -78, y: 109.5}
+        - {x: -88, y: 94.5}
+        - {x: -89, y: 70.5}
+        - {x: -83, y: 69.5}
+        - {x: -78, y: 69.5}
+        - {x: -71, y: 71.5}
+        - {x: -73, y: 69.5}
+        - {x: -82, y: 69.5}
+        - {x: -91, y: 67.5}
+        - {x: -128, y: 51.5}
+        - {x: -128, y: -83.5}
+        - {x: -55, y: -154.5}
+        - {x: 44, y: -154.5}
+        - {x: 46, y: -143.5}
+        - {x: 160, y: -110.5}
+        - {x: 175, y: -98.5}
+    - name: Open Mouth Die Electric  _13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1013
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146, y: -131.5}
+        - {x: 184, y: -109.5}
+        - {x: 192, y: -96.5}
+        - {x: 192, y: -11.5}
+        - {x: 191, y: 8.5}
+        - {x: 168, y: 30.5}
+        - {x: 93, y: 50.5}
+        - {x: 44, y: 73.5}
+        - {x: 15, y: 112.5}
+        - {x: -20, y: 112.5}
+        - {x: -33, y: 101.5}
+        - {x: -62, y: 104.5}
+        - {x: -102, y: 84.5}
+        - {x: -124, y: 55.5}
+        - {x: -135, y: 28.5}
+        - {x: -130, y: -52.5}
+        - {x: -147, y: -71.5}
+        - {x: -147, y: -112.5}
+        - {x: -55, y: -129.5}
+        - {x: -56, y: -154.5}
+        - {x: 60, y: -154.5}
+        - {x: 86, y: -96.5}
+        - {x: 111, y: -123.5}
+    - name: Open Mouth Die Electric  _14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1013
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 192, y: -99.5}
+        - {x: 192, y: -11.5}
+        - {x: 191, y: 8.5}
+        - {x: 167, y: 28.5}
+        - {x: 126, y: 41.5}
+        - {x: 93, y: 47.5}
+        - {x: 22, y: 99.5}
+        - {x: -9, y: 109.5}
+        - {x: -56, y: 109.5}
+        - {x: -70, y: 108.5}
+        - {x: -128, y: 57.5}
+        - {x: -133, y: 28.5}
+        - {x: -133, y: -7.5}
+        - {x: -129, y: -52.5}
+        - {x: -144, y: -63.5}
+        - {x: -147, y: -75.5}
+        - {x: -147, y: -103.5}
+        - {x: -132, y: -114.5}
+        - {x: -13, y: -128.5}
+        - {x: -38, y: -142.5}
+        - {x: -39, y: -149.5}
+        - {x: -25, y: -154.5}
+        - {x: 24, y: -154.5}
+        - {x: 41, y: -153.5}
+        - {x: 87, y: -99.5}
+        - {x: 125, y: -136.5}
+        - {x: 187, y: -112.5}
+    - name: Open Mouth Die Electric  _15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 668
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 38.5}
+        - {x: 15, y: 114.5}
+        - {x: -19, y: 114.5}
+        - {x: -28, y: 101.5}
+        - {x: -28, y: 91.5}
+        - {x: -20, y: 86.5}
+        - {x: -9, y: 85.5}
+        - {x: -3, y: 86.5}
+        - {x: -15, y: 79.5}
+        - {x: -56, y: 114.5}
+        - {x: -114, y: 105.5}
+        - {x: -131, y: 72.5}
+        - {x: -135, y: -38.5}
+        - {x: -148, y: -74.5}
+        - {x: -148, y: -116.5}
+        - {x: -134, y: -120.5}
+        - {x: -130, y: -121.5}
+        - {x: -102, y: -148.5}
+        - {x: -74, y: -152.5}
+        - {x: 98, y: -152.5}
+        - {x: 111, y: -143.5}
+        - {x: 160, y: -123.5}
+        - {x: 160, y: -72.5}
+      - - {x: 133, y: 14.5}
+        - {x: 126, y: 11.5}
+        - {x: 126, y: -57.5}
+        - {x: 137, y: -63.5}
+        - {x: 173, y: -63.5}
+        - {x: 187, y: -60.5}
+        - {x: 187, y: -0.5}
+        - {x: 176, y: 14.5}
+      - - {x: 111, y: 38.5}
+        - {x: 114, y: 39.5}
+        - {x: 114, y: 42.5}
+        - {x: 111, y: 43.5}
+        - {x: 109, y: 41.5}
+    - name: Open Mouth Die Electric  _16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 668
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: -83.5}
+        - {x: 132, y: -68.5}
+        - {x: 118, y: -27.5}
+        - {x: 111, y: 36.5}
+        - {x: 21, y: 100.5}
+        - {x: 1, y: 111.5}
+        - {x: -88, y: 111.5}
+        - {x: -124, y: 90.5}
+        - {x: -129, y: 66.5}
+        - {x: -129, y: -45.5}
+        - {x: -120, y: -65.5}
+        - {x: -118, y: -131.5}
+        - {x: -81, y: -152.5}
+        - {x: 45, y: -152.5}
+        - {x: 57, y: -125.5}
+        - {x: 105, y: -136.5}
+        - {x: 138, y: -128.5}
+      - - {x: 133, y: 14.5}
+        - {x: 126, y: 11.5}
+        - {x: 126, y: -57.5}
+        - {x: 137, y: -63.5}
+        - {x: 173, y: -63.5}
+        - {x: 187, y: -60.5}
+        - {x: 187, y: -0.5}
+        - {x: 176, y: 14.5}
+    - name: Open Mouth Die Electric  _17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 668
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 31.5}
+        - {x: 65, y: 64.5}
+        - {x: 15, y: 114.5}
+        - {x: -55, y: 114.5}
+        - {x: -102, y: 111.5}
+        - {x: -127, y: 84.5}
+        - {x: -127, y: 41.5}
+        - {x: -124, y: 33.5}
+        - {x: -107, y: 11.5}
+        - {x: -118, y: -35.5}
+        - {x: -109, y: -64.5}
+        - {x: -96, y: -87.5}
+        - {x: -49, y: -126.5}
+        - {x: -62, y: -140.5}
+        - {x: -45, y: -152.5}
+        - {x: 40, y: -152.5}
+        - {x: 68, y: -145.5}
+        - {x: 110, y: -60.5}
+        - {x: 113, y: -55.5}
+        - {x: 113, y: 14.5}
+      - - {x: 111, y: 38.5}
+        - {x: 114, y: 39.5}
+        - {x: 114, y: 42.5}
+        - {x: 111, y: 43.5}
+        - {x: 109, y: 41.5}
+    - name: Open Mouth Die Electric  _18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 668
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -136.5}
+        - {x: 36, y: -135.5}
+        - {x: 41, y: -139.5}
+        - {x: 50, y: -140.5}
+        - {x: 55, y: -141.5}
+        - {x: 69, y: -128.5}
+        - {x: 114, y: -103.5}
+        - {x: 114, y: 89.5}
+        - {x: 48, y: 111.5}
+        - {x: -97, y: 111.5}
+        - {x: -127, y: 106.5}
+        - {x: -127, y: -53.5}
+        - {x: -56, y: -152.5}
+        - {x: 33, y: -152.5}
+        - {x: 42, y: -151.5}
+        - {x: 46, y: -141.5}
+        - {x: 41, y: -139.5}
+        - {x: 37, y: -138.5}
+      - - {x: 108, y: 47.5}
+        - {x: 111, y: 48.5}
+        - {x: 111, y: 51.5}
+        - {x: 108, y: 52.5}
+        - {x: 106, y: 50.5}
+    - name: Open Mouth Die Electric  _19
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 668
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 55.5}
+        - {x: 20, y: 114.5}
+        - {x: -103, y: 114.5}
+        - {x: -127, y: 93.5}
+        - {x: -127, y: 38.5}
+        - {x: -114, y: 15.5}
+        - {x: -107, y: 26.5}
+        - {x: -94, y: 26.5}
+        - {x: -96, y: 26.5}
+        - {x: -103, y: 24.5}
+        - {x: -118, y: -20.5}
+        - {x: -126, y: -50.5}
+        - {x: -62, y: -143.5}
+        - {x: -50, y: -152.5}
+        - {x: 55, y: -152.5}
+        - {x: 63, y: -139.5}
+        - {x: 113, y: -45.5}
+        - {x: 113, y: 4.5}
+    - name: Open Mouth Die Electric  _20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -88.5}
+        - {x: 114, y: -59.5}
+        - {x: 114, y: 36.5}
+        - {x: 71, y: 82.5}
+        - {x: 5, y: 113.5}
+        - {x: -68, y: 113.5}
+        - {x: -98, y: 93.5}
+        - {x: -86, y: 70.5}
+        - {x: -72, y: 73.5}
+        - {x: -100, y: 33.5}
+        - {x: -114, y: -1.5}
+        - {x: -114, y: -58.5}
+        - {x: -50, y: -150.5}
+        - {x: 37, y: -150.5}
+        - {x: 44, y: -143.5}
+        - {x: 44, y: -139.5}
+        - {x: 39, y: -135.5}
+      - - {x: 108, y: 49.5}
+        - {x: 111, y: 50.5}
+        - {x: 111, y: 53.5}
+        - {x: 108, y: 54.5}
+        - {x: 106, y: 52.5}
+    - name: Open Mouth Die Electric  _21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 323
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: -64.5}
+        - {x: 89, y: 10.5}
+        - {x: 59, y: 106.5}
+        - {x: 15, y: 123.5}
+        - {x: -73, y: 123.5}
+        - {x: -81, y: 100.5}
+        - {x: -89, y: 40.5}
+        - {x: -89, y: -84.5}
+        - {x: -80, y: -113.5}
+        - {x: -62, y: -127.5}
+        - {x: 78, y: -127.5}
+        - {x: 89, y: -124.5}
+        - {x: 89, y: -109.5}
+        - {x: 75, y: -83.5}
+    - name: Open Mouth Die Electric  _22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 323
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 99.5}
+        - {x: -92, y: 54.5}
+        - {x: -94, y: 40.5}
+        - {x: -94, y: -71.5}
+        - {x: -86, y: -82.5}
+        - {x: -75, y: -92.5}
+        - {x: 94, y: -92.5}
+        - {x: 102, y: -78.5}
+        - {x: 102, y: -23.5}
+        - {x: 50, y: 99.5}
+      - - {x: 76, y: 19.5}
+        - {x: 79, y: 20.5}
+        - {x: 79, y: 23.5}
+        - {x: 76, y: 24.5}
+        - {x: 74, y: 22.5}
+    - name: Open Mouth Die Electric  _23
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 323
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: -30.5}
+        - {x: 96, y: -30.5}
+        - {x: 101, y: -31.5}
+        - {x: 101, y: 35.5}
+        - {x: 74, y: 99.5}
+        - {x: -93, y: 99.5}
+        - {x: -93, y: -73.5}
+        - {x: -62, y: -78.5}
+        - {x: 54, y: -78.5}
+        - {x: 100, y: -37.5}
+        - {x: 99, y: -33.5}
+        - {x: 96, y: -30.5}
+    - name: Open Mouth Die Electric  _24
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 323
+        width: 408
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: 103.5}
+        - {x: 94, y: 105.5}
+        - {x: 3, y: 105.5}
+        - {x: -69, y: 71.5}
+        - {x: -78, y: 62.5}
+        - {x: -81, y: 45.5}
+        - {x: -81, y: -3.5}
+        - {x: -65, y: -53.5}
+        - {x: -30, y: -74.5}
+        - {x: 40, y: -74.5}
+        - {x: 125, y: -22.5}
+        - {x: 135, y: 8.5}
+        - {x: 135, y: 48.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

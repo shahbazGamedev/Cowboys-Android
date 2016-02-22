@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 6847e1724a591394d84614f478b8c313
+timeCreated: 1449160527
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: freez_green
+    21300002: freez_blue
+    21300004: freez_pink
+    21300006: freez_yellow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 260
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: freez_green
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1672
+        width: 207
+        height: 312
+      alignment: 9
+      pivot: {x: 0.4477352, y: 0.44220713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.574524, y: -114.06885}
+        - {x: 95.574524, y: -100.06885}
+        - {x: 68.574524, y: -58.068848}
+        - {x: 60.574524, y: -62.068848}
+        - {x: 56.574524, y: -62.068848}
+        - {x: 58.574524, y: -62.068848}
+        - {x: 62.574524, y: -59.068848}
+        - {x: 63.574524, y: -47.068848}
+        - {x: 59.574524, y: -44.068848}
+        - {x: 84.574524, y: -59.068848}
+        - {x: 90.574524, y: -61.068848}
+        - {x: 95.574524, y: -59.068848}
+        - {x: 95.574524, y: 19.931152}
+        - {x: 43.574524, y: 71.93115}
+        - {x: -18.425476, y: 144.93115}
+        - {x: -36.425476, y: 144.93115}
+        - {x: -76.425476, y: 83.93115}
+        - {x: -76.425476, y: -25.068848}
+        - {x: -41.425476, y: -114.06885}
+        - {x: -10.425476, y: -114.06885}
+        - {x: -9.425476, y: -113.06885}
+        - {x: -7.425476, y: -100.06885}
+        - {x: 4.574524, y: -88.06885}
+        - {x: 41.574524, y: -114.06885}
+    - name: freez_blue
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1598
+        width: 223
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.05762, y: 35.942383}
+        - {x: 93.05762, y: 140.94238}
+        - {x: 80.05762, y: 138.94238}
+        - {x: 57.057617, y: 133.94238}
+        - {x: 52.057617, y: 128.94238}
+        - {x: 42.057617, y: 125.94238}
+        - {x: 40.057617, y: 120.94238}
+        - {x: 32.057617, y: 102.94238}
+        - {x: 35.057617, y: 111.94238}
+        - {x: 37.057617, y: 144.94238}
+        - {x: 18.057617, y: 144.94238}
+        - {x: 1.0576172, y: 140.94238}
+        - {x: -20.942383, y: 131.94238}
+        - {x: -51.942383, y: 98.94238}
+        - {x: -91.94238, y: 52.942383}
+        - {x: -91.94238, y: -41.057617}
+        - {x: -30.942383, y: -144.05762}
+        - {x: 18.057617, y: -144.05762}
+        - {x: 18.057617, y: -141.05762}
+        - {x: 21.057617, y: -128.05762}
+        - {x: 88.05762, y: -13.057617}
+      - - {x: -65.94238, y: 68.94238}
+        - {x: -63.942383, y: 66.94238}
+        - {x: -60.942383, y: 67.94238}
+        - {x: -60.942383, y: 71.94238}
+        - {x: -62.942383, y: 73.94238}
+        - {x: -65.94238, y: 72.94238}
+      - - {x: -29.942383, y: 128.94238}
+        - {x: -30.942383, y: 127.94238}
+        - {x: -30.942383, y: 122.94238}
+        - {x: -25.942383, y: 122.94238}
+        - {x: -24.942383, y: 124.94238}
+        - {x: -24.942383, y: 126.94238}
+        - {x: -26.942383, y: 128.94238}
+    - name: freez_pink
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1595
+        width: 230
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.75342, y: 71.96533}
+        - {x: 47.753418, y: 146.96533}
+        - {x: -38.246582, y: 146.96533}
+        - {x: -95.24658, y: 56.965332}
+        - {x: -95.24658, y: -31.034668}
+        - {x: -82.24658, y: -87.03467}
+        - {x: -22.246582, y: -83.03467}
+        - {x: -11.246582, y: -140.03467}
+        - {x: -5.246582, y: -145.03467}
+        - {x: 1.753418, y: -145.03467}
+        - {x: 17.753418, y: -98.03467}
+        - {x: 74.75342, y: -75.03467}
+        - {x: 95.75342, y: 0.96533203}
+    - name: freez_yellow
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1584
+        width: 225
+        height: 339
+      alignment: 9
+      pivot: {x: 0.3717768, y: 0.47872412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.99011, y: 147.33813}
+        - {x: -9.009888, y: 147.33813}
+        - {x: -69.00989, y: 86.338135}
+        - {x: -69.00989, y: -70.661865}
+        - {x: -20.009888, y: -133.66187}
+        - {x: 22.990112, y: -133.66187}
+        - {x: 77.99011, y: -110.661865}
+        - {x: 116.99011, y: 6.338135}
+        - {x: 116.99011, y: 85.338135}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 1c1db26f68977fa4ea595af66d4d1787
+timeCreated: 1449159597
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Green Die Electric_0
+    21300002: Green Die Electric_1
+    21300004: Green Die Electric_2
+    21300006: Green Die Electric_3
+    21300008: Green Die Electric_4
+    21300010: Green Die Electric_5
+    21300012: Green Die Electric_6
+    21300014: Green Die Electric_7
+    21300016: Green Die Electric_8
+    21300018: Green Die Electric_9
+    21300020: Green Die Electric_10
+    21300022: Green Die Electric_11
+    21300024: Green Die Electric_12
+    21300026: Green Die Electric_13
+    21300028: Green Die Electric_14
+    21300030: Green Die Electric_15
+    21300032: Green Die Electric_16
+    21300034: Green Die Electric_17
+    21300036: Green Die Electric_18
+    21300038: Green Die Electric_19
+    21300040: Green Die Electric_20
+    21300042: Green Die Electric_21
+    21300044: Green Die Electric_22
+    21300046: Green Die Electric_23
+    21300048: Green Die Electric_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 260
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Green Die Electric_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 109}
+        - {x: 56, y: 153}
+        - {x: -64, y: 153}
+        - {x: -95, y: 98}
+        - {x: -95, y: 21}
+        - {x: -81, y: 14}
+        - {x: -61, y: -70}
+        - {x: -38, y: -116}
+        - {x: 27, y: -123}
+        - {x: 82, y: -123}
+        - {x: 99, y: -106}
+        - {x: 141, y: -17}
+        - {x: 141, y: 126}
+    - name: Green Die Electric_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1708
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 153, y: -8}
+        - {x: 156, y: 8}
+        - {x: 156, y: 54}
+        - {x: 137, y: 79}
+        - {x: 151, y: 134}
+        - {x: 72, y: 127}
+        - {x: 24, y: 154}
+        - {x: -37, y: 154}
+        - {x: -95, y: 52}
+        - {x: -105, y: 2}
+        - {x: -105, y: -37}
+        - {x: -96, y: -51}
+        - {x: -18, y: -117}
+        - {x: 34, y: -127}
+        - {x: 90, y: -127}
+        - {x: 122, y: -116}
+        - {x: 128, y: -107}
+        - {x: 105, y: -49}
+    - name: Green Die Electric_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1708
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156, y: 47}
+        - {x: 150, y: 69}
+        - {x: 77, y: 107}
+        - {x: 40, y: 88}
+        - {x: -22, y: 154}
+        - {x: -34, y: 154}
+        - {x: -54, y: 90}
+        - {x: -95, y: 62}
+        - {x: -105, y: 6}
+        - {x: -105, y: -38}
+        - {x: -103, y: -43}
+        - {x: -65, y: -75}
+        - {x: -47, y: -99}
+        - {x: 79, y: -153}
+        - {x: 116, y: -153}
+        - {x: 118, y: -152}
+        - {x: 126, y: -107}
+        - {x: 109, y: -68}
+        - {x: 156, y: -4}
+    - name: Green Die Electric_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1708
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 176, y: 17}
+        - {x: 47, y: 107}
+        - {x: -4, y: 127}
+        - {x: -26, y: 152}
+        - {x: -40, y: 152}
+        - {x: -56, y: 110}
+        - {x: -105, y: 70}
+        - {x: -118, y: 44}
+        - {x: -119, y: 6}
+        - {x: -132, y: -33}
+        - {x: -132, y: -78}
+        - {x: -117, y: -91}
+        - {x: -85, y: -85}
+        - {x: -17, y: -125}
+        - {x: 25, y: -126}
+        - {x: 64, y: -165}
+        - {x: 83, y: -165}
+        - {x: 101, y: -96}
+        - {x: 127, y: -33}
+        - {x: 176, y: -2}
+    - name: Green Die Electric_4
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1708
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 194, y: -79}
+        - {x: 194, y: -48}
+        - {x: 190, y: -43}
+        - {x: 171, y: -27}
+        - {x: 153, y: 30}
+        - {x: 126, y: 51}
+        - {x: 148, y: 119}
+        - {x: 145, y: 127}
+        - {x: 91, y: 117}
+        - {x: 44, y: 123}
+        - {x: -13, y: 141}
+        - {x: -27, y: 168}
+        - {x: -38, y: 168}
+        - {x: -85, y: 117}
+        - {x: -132, y: 79}
+        - {x: -139, y: 22}
+        - {x: -131, y: 22}
+        - {x: -129, y: 24}
+        - {x: -128, y: 18}
+        - {x: -137, y: -20}
+        - {x: -150, y: -38}
+        - {x: -150, y: -76}
+        - {x: -143, y: -92}
+        - {x: -13, y: -149}
+        - {x: 44, y: -147}
+        - {x: 69, y: -153}
+        - {x: 119, y: -153}
+        - {x: 126, y: -136}
+        - {x: 138, y: -100}
+        - {x: 188, y: -96}
+    - name: Green Die Electric_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 194, y: -60}
+        - {x: 192, y: -45}
+        - {x: 167, y: -3}
+        - {x: 187, y: -4}
+        - {x: 194, y: -5}
+        - {x: 194, y: 8}
+        - {x: 155, y: 69}
+        - {x: 116, y: 83}
+        - {x: 122, y: 120}
+        - {x: 113, y: 145}
+        - {x: 61, y: 135}
+        - {x: 43, y: 144}
+        - {x: -8, y: 131}
+        - {x: -25, y: 161}
+        - {x: -31, y: 164}
+        - {x: -41, y: 164}
+        - {x: -134, y: 62}
+        - {x: -141, y: 11}
+        - {x: -141, y: -31}
+        - {x: -150, y: -50}
+        - {x: -150, y: -85}
+        - {x: -141, y: -92}
+        - {x: -103, y: -111}
+        - {x: -27, y: -146}
+        - {x: -6, y: -149}
+        - {x: 33, y: -148}
+        - {x: 61, y: -168}
+        - {x: 82, y: -168}
+        - {x: 88, y: -166}
+        - {x: 114, y: -115}
+        - {x: 184, y: -92}
+        - {x: 194, y: -83}
+    - name: Green Die Electric_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1368
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 194, y: -98}
+        - {x: 195, y: -95}
+        - {x: 195, y: -65}
+        - {x: 178, y: -49}
+        - {x: 156, y: 22}
+        - {x: 126, y: 64}
+        - {x: 130, y: 90}
+        - {x: 117, y: 104}
+        - {x: 109, y: 107}
+        - {x: 37, y: 125}
+        - {x: -6, y: 136}
+        - {x: -25, y: 165}
+        - {x: -38, y: 165}
+        - {x: -40, y: 164}
+        - {x: -86, y: 112}
+        - {x: -123, y: 80}
+        - {x: -135, y: 56}
+        - {x: -136, y: 15}
+        - {x: -132, y: -22}
+        - {x: -138, y: -24}
+        - {x: -138, y: -75}
+        - {x: -121, y: -95}
+        - {x: -96, y: -113}
+        - {x: -36, y: -146}
+        - {x: 17, y: -154}
+        - {x: 57, y: -156}
+        - {x: 112, y: -156}
+        - {x: 117, y: -138}
+        - {x: 110, y: -124}
+        - {x: 183, y: -108}
+    - name: Green Die Electric_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1368
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 162, y: -97}
+        - {x: 163, y: -61}
+        - {x: 157, y: -40}
+        - {x: 181, y: -14}
+        - {x: 137, y: 7}
+        - {x: 187, y: -4}
+        - {x: 192, y: -4}
+        - {x: 192, y: 6}
+        - {x: 176, y: 31}
+        - {x: 120, y: 108}
+        - {x: 32, y: 128}
+        - {x: -26, y: 163}
+        - {x: -30, y: 165}
+        - {x: -37, y: 165}
+        - {x: -42, y: 158}
+        - {x: -114, y: 91}
+        - {x: -139, y: 47}
+        - {x: -136, y: 13}
+        - {x: -137, y: -24}
+        - {x: -158, y: -38}
+        - {x: -158, y: -74}
+        - {x: -157, y: -76}
+        - {x: -148, y: -92}
+        - {x: -21, y: -149}
+        - {x: 50, y: -150}
+        - {x: 69, y: -168}
+        - {x: 79, y: -168}
+        - {x: 99, y: -144}
+        - {x: 129, y: -132}
+        - {x: 157, y: -119}
+    - name: Green Die Electric_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1368
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163, y: -34}
+        - {x: 163, y: -12}
+        - {x: 156, y: 21}
+        - {x: 123, y: 69}
+        - {x: 147, y: 131}
+        - {x: 143, y: 137}
+        - {x: 82, y: 122}
+        - {x: 73, y: 106}
+        - {x: 26, y: 130}
+        - {x: -13, y: 134}
+        - {x: -26, y: 166}
+        - {x: -39, y: 166}
+        - {x: -119, y: 81}
+        - {x: -134, y: 56}
+        - {x: -136, y: 20}
+        - {x: -125, y: -4}
+        - {x: -158, y: -42}
+        - {x: -158, y: -78}
+        - {x: -130, y: -98}
+        - {x: -109, y: -74}
+        - {x: -83, y: -114}
+        - {x: -32, y: -148}
+        - {x: -7, y: -151}
+        - {x: 65, y: -156}
+        - {x: 112, y: -156}
+        - {x: 115, y: -143}
+        - {x: 112, y: -122}
+        - {x: 144, y: -120}
+    - name: Green Die Electric_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1368
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169, y: 9}
+        - {x: 188, y: -3}
+        - {x: 192, y: -1}
+        - {x: 192, y: 4}
+        - {x: 184, y: 11}
+        - {x: 171, y: 26}
+        - {x: 138, y: 76}
+        - {x: 122, y: 89}
+        - {x: 46, y: 141}
+        - {x: 28, y: 162}
+        - {x: 6, y: 133}
+        - {x: -29, y: 166}
+        - {x: -41, y: 166}
+        - {x: -62, y: 130}
+        - {x: -131, y: 85}
+        - {x: -146, y: 9}
+        - {x: -162, y: -38}
+        - {x: -162, y: -77}
+        - {x: -160, y: -95}
+        - {x: -145, y: -114}
+        - {x: -79, y: -117}
+        - {x: -49, y: -144}
+        - {x: 53, y: -163}
+        - {x: 61, y: -168}
+        - {x: 82, y: -168}
+        - {x: 103, y: -148}
+        - {x: 137, y: -52}
+        - {x: 138, y: 32}
+    - name: Green Die Electric_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125, y: -122}
+        - {x: 137, y: -119}
+        - {x: 163, y: -39}
+        - {x: 163, y: -11}
+        - {x: 155, y: 18}
+        - {x: 139, y: 44}
+        - {x: 66, y: 116}
+        - {x: 7, y: 128}
+        - {x: -25, y: 162}
+        - {x: -32, y: 164}
+        - {x: -42, y: 164}
+        - {x: -85, y: 108}
+        - {x: -102, y: 100}
+        - {x: -135, y: 59}
+        - {x: -136, y: 17}
+        - {x: -125, y: -7}
+        - {x: -160, y: -35}
+        - {x: -162, y: -44}
+        - {x: -162, y: -88}
+        - {x: -145, y: -115}
+        - {x: -101, y: -109}
+        - {x: -82, y: -113}
+        - {x: -50, y: -141}
+        - {x: -16, y: -156}
+        - {x: 42, y: -159}
+        - {x: 112, y: -159}
+        - {x: 113, y: -156}
+        - {x: 113, y: -145}
+        - {x: 107, y: -125}
+    - name: Green Die Electric_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1028
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 160, y: 1}
+        - {x: 192, y: -7}
+        - {x: 192, y: 3}
+        - {x: 139, y: 64}
+        - {x: 102, y: 84}
+        - {x: 57, y: 114}
+        - {x: 24, y: 125}
+        - {x: -13, y: 136}
+        - {x: -27, y: 163}
+        - {x: -40, y: 163}
+        - {x: -76, y: 112}
+        - {x: -102, y: 100}
+        - {x: -136, y: 55}
+        - {x: -136, y: 4}
+        - {x: -128, y: -34}
+        - {x: -135, y: -63}
+        - {x: -132, y: -95}
+        - {x: -76, y: -118}
+        - {x: -59, y: -133}
+        - {x: -14, y: -154}
+        - {x: 36, y: -154}
+        - {x: 61, y: -170}
+        - {x: 78, y: -170}
+        - {x: 99, y: -149}
+        - {x: 108, y: -121}
+        - {x: 151, y: -35}
+    - name: Green Die Electric_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1028
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 150, y: -101}
+        - {x: 176, y: -86}
+        - {x: 176, y: -38}
+        - {x: 155, y: 18}
+        - {x: 146, y: 56}
+        - {x: 118, y: 72}
+        - {x: 140, y: 118}
+        - {x: 136, y: 126}
+        - {x: 83, y: 120}
+        - {x: -13, y: 131}
+        - {x: -16, y: 154}
+        - {x: -30, y: 164}
+        - {x: -43, y: 164}
+        - {x: -64, y: 118}
+        - {x: -77, y: 119}
+        - {x: -132, y: 75}
+        - {x: -139, y: 19}
+        - {x: -139, y: 14}
+        - {x: -125, y: 4}
+        - {x: -139, y: -29}
+        - {x: -139, y: -58}
+        - {x: -137, y: -67}
+        - {x: -112, y: -73}
+        - {x: -70, y: -131}
+        - {x: -16, y: -159}
+        - {x: 117, y: -159}
+        - {x: 119, y: -158}
+        - {x: 105, y: -113}
+        - {x: 131, y: -129}
+    - name: Green Die Electric_13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1028
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 193, y: 14}
+        - {x: 191, y: 22}
+        - {x: 168, y: 43}
+        - {x: 145, y: 53}
+        - {x: 63, y: 113}
+        - {x: 38, y: 146}
+        - {x: -10, y: 127}
+        - {x: -16, y: 157}
+        - {x: -25, y: 164}
+        - {x: -39, y: 164}
+        - {x: -64, y: 121}
+        - {x: -95, y: 103}
+        - {x: -124, y: 73}
+        - {x: -137, y: 44}
+        - {x: -137, y: 9}
+        - {x: -129, y: -38}
+        - {x: -146, y: -58}
+        - {x: -146, y: -86}
+        - {x: -127, y: -103}
+        - {x: -109, y: -100}
+        - {x: -58, y: -137}
+        - {x: 1, y: -160}
+        - {x: 53, y: -150}
+        - {x: 66, y: -170}
+        - {x: 88, y: -170}
+        - {x: 114, y: -129}
+        - {x: 152, y: -115}
+        - {x: 193, y: -88}
+    - name: Green Die Electric_14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1028
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 184, y: -94}
+        - {x: 193, y: -87}
+        - {x: 193, y: 14}
+        - {x: 191, y: 22}
+        - {x: 168, y: 43}
+        - {x: 132, y: 56}
+        - {x: 54, y: 120}
+        - {x: -2, y: 133}
+        - {x: -13, y: 156}
+        - {x: -32, y: 165}
+        - {x: -39, y: 165}
+        - {x: -69, y: 117}
+        - {x: -90, y: 108}
+        - {x: -123, y: 76}
+        - {x: -133, y: 54}
+        - {x: -136, y: 23}
+        - {x: -130, y: -26}
+        - {x: -139, y: -32}
+        - {x: -146, y: -64}
+        - {x: -146, y: -85}
+        - {x: -131, y: -98}
+        - {x: -114, y: -96}
+        - {x: -66, y: -130}
+        - {x: -35, y: -149}
+        - {x: -1, y: -157}
+        - {x: 51, y: -159}
+        - {x: 112, y: -159}
+        - {x: 116, y: -147}
+        - {x: 109, y: -115}
+        - {x: 130, y: -123}
+    - name: Green Die Electric_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 192, y: -27}
+        - {x: 192, y: 10}
+        - {x: 82, y: 100}
+        - {x: 19, y: 128}
+        - {x: -5, y: 151}
+        - {x: -13, y: 147}
+        - {x: -30, y: 162}
+        - {x: -35, y: 162}
+        - {x: -41, y: 159}
+        - {x: -64, y: 124}
+        - {x: -115, y: 119}
+        - {x: -144, y: 42}
+        - {x: -136, y: -28}
+        - {x: -147, y: -70}
+        - {x: -147, y: -96}
+        - {x: -139, y: -108}
+        - {x: -133, y: -111}
+        - {x: -129, y: -112}
+        - {x: -121, y: -112}
+        - {x: -115, y: -110}
+        - {x: -94, y: -122}
+        - {x: -80, y: -126}
+        - {x: -25, y: -154}
+        - {x: 15, y: -159}
+        - {x: 49, y: -170}
+        - {x: 92, y: -170}
+        - {x: 119, y: -132}
+        - {x: 162, y: -110}
+        - {x: 170, y: -78}
+    - name: Green Die Electric_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 688
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168, y: -57}
+        - {x: 188, y: -48}
+        - {x: 188, y: 21}
+        - {x: 135, y: 35}
+        - {x: 174, y: 80}
+        - {x: 160, y: 83}
+        - {x: 92, y: 93}
+        - {x: 13, y: 133}
+        - {x: 3, y: 148}
+        - {x: -26, y: 162}
+        - {x: -44, y: 162}
+        - {x: -64, y: 121}
+        - {x: -84, y: 122}
+        - {x: -127, y: 104}
+        - {x: -139, y: 19}
+        - {x: -139, y: 6}
+        - {x: -132, y: -25}
+        - {x: -139, y: -36}
+        - {x: -139, y: -68}
+        - {x: -126, y: -72}
+        - {x: -115, y: -104}
+        - {x: -105, y: -130}
+        - {x: -67, y: -138}
+        - {x: -9, y: -163}
+        - {x: 13, y: -170}
+        - {x: 54, y: -170}
+        - {x: 64, y: -166}
+        - {x: 113, y: -168}
+        - {x: 119, y: -142}
+        - {x: 137, y: -124}
+    - name: Green Die Electric_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 688
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: -95}
+        - {x: 155, y: -14}
+        - {x: 160, y: 6}
+        - {x: 188, y: -9}
+        - {x: 192, y: -7}
+        - {x: 192, y: 5}
+        - {x: 90, y: 95}
+        - {x: 81, y: 119}
+        - {x: 14, y: 140}
+        - {x: 9, y: 141}
+        - {x: 5, y: 135}
+        - {x: -26, y: 162}
+        - {x: -41, y: 162}
+        - {x: -110, y: 110}
+        - {x: -129, y: 81}
+        - {x: -136, y: 53}
+        - {x: -136, y: 1}
+        - {x: -134, y: -64}
+        - {x: -131, y: -100}
+        - {x: -57, y: -139}
+        - {x: -1, y: -163}
+        - {x: 56, y: -170}
+        - {x: 87, y: -170}
+        - {x: 100, y: -154}
+        - {x: 100, y: -142}
+        - {x: 105, y: -141}
+    - name: Green Die Electric_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 688
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164, y: -32}
+        - {x: 158, y: 16}
+        - {x: 113, y: 66}
+        - {x: 89, y: 90}
+        - {x: 52, y: 112}
+        - {x: 29, y: 140}
+        - {x: -16, y: 133}
+        - {x: -24, y: 154}
+        - {x: -30, y: 163}
+        - {x: -37, y: 163}
+        - {x: -41, y: 162}
+        - {x: -69, y: 115}
+        - {x: -98, y: 115}
+        - {x: -122, y: 100}
+        - {x: -138, y: 44}
+        - {x: -139, y: 29}
+        - {x: -139, y: -68}
+        - {x: -121, y: -77}
+        - {x: -92, y: -107}
+        - {x: -54, y: -145}
+        - {x: -13, y: -162}
+        - {x: -12, y: -162}
+        - {x: 46, y: -157}
+        - {x: 58, y: -162}
+        - {x: 113, y: -162}
+        - {x: 118, y: -130}
+        - {x: 150, y: -122}
+        - {x: 164, y: -45}
+      - - {x: 74, y: 168}
+        - {x: 74, y: 170}
+        - {x: 69, y: 170}
+        - {x: 71, y: 167}
+    - name: Green Die Electric_19
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 688
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: 2}
+        - {x: 187, y: -12}
+        - {x: 192, y: -8}
+        - {x: 192, y: 0}
+        - {x: 154, y: 41}
+        - {x: 59, y: 113}
+        - {x: 39, y: 136}
+        - {x: 30, y: 132}
+        - {x: -13, y: 148}
+        - {x: -29, y: 163}
+        - {x: -42, y: 163}
+        - {x: -65, y: 119}
+        - {x: -110, y: 109}
+        - {x: -130, y: 93}
+        - {x: -136, y: 46}
+        - {x: -136, y: -20}
+        - {x: -126, y: -61}
+        - {x: -136, y: -61}
+        - {x: -136, y: -100}
+        - {x: -59, y: -145}
+        - {x: -11, y: -162}
+        - {x: 50, y: -157}
+        - {x: 58, y: -170}
+        - {x: 88, y: -170}
+        - {x: 112, y: -156}
+        - {x: 132, y: -58}
+        - {x: 164, y: -66}
+        - {x: 165, y: -59}
+    - name: Green Die Electric_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: 12}
+        - {x: 154, y: 48}
+        - {x: 172, y: 53}
+        - {x: 176, y: 56}
+        - {x: 176, y: 65}
+        - {x: 119, y: 72}
+        - {x: 53, y: 111}
+        - {x: 25, y: 143}
+        - {x: -8, y: 130}
+        - {x: -29, y: 160}
+        - {x: -30, y: 161}
+        - {x: -39, y: 161}
+        - {x: -68, y: 121}
+        - {x: -121, y: 77}
+        - {x: -135, y: 49}
+        - {x: -137, y: 10}
+        - {x: -126, y: 3}
+        - {x: -139, y: -29}
+        - {x: -139, y: -74}
+        - {x: -67, y: -137}
+        - {x: -32, y: -158}
+        - {x: -4, y: -166}
+        - {x: 121, y: -166}
+        - {x: 113, y: -133}
+        - {x: 137, y: -127}
+        - {x: 167, y: -32}
+      - - {x: 72, y: 170}
+        - {x: 69, y: 167}
+        - {x: 70, y: 164}
+        - {x: 74, y: 164}
+        - {x: 80, y: 169}
+        - {x: 80, y: 170}
+    - name: Green Die Electric_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 348
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: -8}
+        - {x: 154, y: -15}
+        - {x: 154, y: 52}
+        - {x: 94, y: 114}
+        - {x: 100, y: 112}
+        - {x: 58, y: 121}
+        - {x: 1, y: 142}
+        - {x: -55, y: 142}
+        - {x: -65, y: 139}
+        - {x: -112, y: 58}
+        - {x: -121, y: -1}
+        - {x: -121, y: -51}
+        - {x: -69, y: -107}
+        - {x: -48, y: -128}
+        - {x: -23, y: -141}
+        - {x: 2, y: -145}
+        - {x: 93, y: -145}
+        - {x: 142, y: -116}
+        - {x: 111, y: -88}
+        - {x: 146, y: -48}
+      - - {x: 34, y: 161}
+        - {x: 41, y: 161}
+        - {x: 45, y: 162}
+        - {x: 47, y: 170}
+        - {x: 36, y: 170}
+        - {x: 34, y: 167}
+    - name: Green Die Electric_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 348
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: -110}
+        - {x: 116, y: -45}
+        - {x: 98, y: 22}
+        - {x: 145, y: 15}
+        - {x: 145, y: 63}
+        - {x: 23, y: 142}
+        - {x: -38, y: 142}
+        - {x: -89, y: 92}
+        - {x: -102, y: 16}
+        - {x: -102, y: -49}
+        - {x: -75, y: -114}
+        - {x: 6, y: -139}
+        - {x: 101, y: -139}
+        - {x: 121, y: -126}
+        - {x: 126, y: -119}
+        - {x: 117, y: -113}
+      - - {x: 72, y: 170}
+        - {x: 69, y: 167}
+        - {x: 69, y: 164}
+        - {x: 70, y: 163}
+        - {x: 75, y: 163}
+        - {x: 81, y: 168}
+        - {x: 81, y: 170}
+    - name: Green Die Electric_23
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 348
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -22}
+        - {x: 104, y: -44}
+        - {x: 151, y: -68}
+        - {x: 157, y: -69}
+        - {x: 157, y: -58}
+        - {x: 130, y: -14}
+        - {x: 150, y: 104}
+        - {x: 85, y: 142}
+        - {x: -33, y: 142}
+        - {x: -82, y: 131}
+        - {x: -82, y: -91}
+        - {x: -43, y: -134}
+        - {x: -32, y: -135}
+        - {x: 102, y: -135}
+        - {x: 116, y: -67}
+        - {x: 90, y: -34}
+        - {x: 79, y: -36}
+    - name: Green Die Electric_24
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 348
+        width: 408
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 170, y: 24}
+        - {x: 164, y: 27}
+        - {x: 140, y: 107}
+        - {x: 69, y: 141}
+        - {x: -33, y: 141}
+        - {x: -77, y: 86}
+        - {x: -78, y: 84}
+        - {x: -78, y: -47}
+        - {x: -43, y: -135}
+        - {x: 94, y: -135}
+        - {x: 111, y: -69}
+        - {x: 97, y: -40}
+        - {x: 170, y: 12}
+      - - {x: 71, y: 170}
+        - {x: 70, y: 168}
+        - {x: 70, y: 163}
+        - {x: 76, y: 163}
+        - {x: 82, y: 169}
+        - {x: 82, y: 170}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

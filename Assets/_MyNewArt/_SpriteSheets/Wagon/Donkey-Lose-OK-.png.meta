@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 8734fdebc4523f0438ff42ab97e4af81
+timeCreated: 1448975802
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Donkey-Lose-OK-_0
+    21300002: Donkey-Lose-OK-_1
+    21300004: Donkey-Lose-OK-_2
+    21300006: Donkey-Lose-OK-_3
+    21300008: Donkey-Lose-OK-_4
+    21300010: Donkey-Lose-OK-_5
+    21300012: Donkey-Lose-OK-_6
+    21300014: Donkey-Lose-OK-_7
+    21300016: Donkey-Lose-OK-_8
+    21300018: Donkey-Lose-OK-_9
+    21300020: Donkey-Lose-OK-_10
+    21300022: Donkey-Lose-OK-_11
+    21300024: Donkey-Lose-OK-_12
+    21300026: Donkey-Lose-OK-_13
+    21300028: Donkey-Lose-OK-_14
+    21300030: Donkey-Lose-OK-_15
+    21300032: Donkey-Lose-OK-_16
+    21300034: Donkey-Lose-OK-_17
+    21300036: Donkey-Lose-OK-_18
+    21300038: Donkey-Lose-OK-_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Donkey-Lose-OK-_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1648
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1648
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1248
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1248
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1248
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 848
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 848
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 848
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 448
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 48
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Donkey-Lose-OK-_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 48
+        width: 512
+        height: 400
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

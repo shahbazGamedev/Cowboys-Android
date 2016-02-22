@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 84b82075633bf2542a21bb2368dfa629
+timeCreated: 1448971185
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FG big
+    21300002: box iso
+    21300004: sabar tawel
+    21300006: "Stage_1 _Starting The Journey\__4"
+    21300008: sabar 2osyar
+    21300010: cloud
+    21300012: scracrow
+    21300014: home
+    21300016: fgSmal
+    21300018: barmel
+    21300020: "Stage_1 _Starting The Journey\__22"
+    21300022: burned home
+    21300024: water tower
+    21300026: mountain1
+    21300028: sun
+    21300030: faaan
+    21300032: grass2
+    21300034: mountain3
+    21300036: box 2
+    21300038: box
+    21300040: fan pivot
+    21300042: rock small
+    21300044: land
+    21300046: fan tower
+    21300048: grass
+    21300050: box tany
+    21300052: koko1
+    21300054: sabar
+    21300056: rock
+    21300058: koko2
+    21300060: mountains2
+    21300062: sky
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: FG big
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1635
+        width: 1941
+        height: 413
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box iso
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1967
+        width: 102
+        height: 79
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabar tawel
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1784
+        width: 96
+        height: 178
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Stage_1 _Starting The Journey\__4"
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1956
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabar 2osyar
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1655
+        width: 87
+        height: 128
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 1843
+        height: 335
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scracrow
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1285
+        width: 191
+        height: 237
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: home
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 634
+        width: 451
+        height: 650
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fgSmal
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1097
+        width: 921
+        height: 194
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barmel
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1074
+        width: 67
+        height: 87
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Stage_1 _Starting The Journey\__22"
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1087
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: burned home
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 331
+        height: 418
+      alignment: 9
+      pivot: {x: .5, y: .0270141158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water tower
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 261
+        width: 204
+        height: 373
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mountain1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 647
+        width: 462
+        height: 254
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sun
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 136
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: faaan
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 141
+        height: 139
+      alignment: 9
+      pivot: {x: .504601777, y: .509336174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 41
+        width: 67
+        height: 134
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mountain3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 6
+        width: 462
+        height: 251
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box 2
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1524
+        width: 83
+        height: 129
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1564
+        width: 88
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fan pivot
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1533
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rock small
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1528
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: land
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1174
+        width: 179
+        height: 110
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fan tower
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 814
+        width: 128
+        height: 359
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1082
+        width: 49
+        height: 91
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box tany
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1228
+        width: 77
+        height: 65
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koko1
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1165
+        width: 61
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sabar
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 999
+        width: 59
+        height: 67
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rock
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 952
+        width: 61
+        height: 45
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: koko2
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 903
+        width: 53
+        height: 43
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mountains2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 393
+        width: 456
+        height: 253
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sky
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 83
+        height: 689
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

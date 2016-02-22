@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 3e1657314487ac141ac0ce5dcec8adcc
+timeCreated: 1448953818
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cow-Fly_0
+    21300002: Cow-Fly_1
+    21300004: Cow-Fly_2
+    21300006: Cow-Fly_3
+    21300008: Cow-Fly_4
+    21300010: Cow-Fly_5
+    21300012: Cow-Fly_6
+    21300014: Cow-Fly_7
+    21300016: Cow-Fly_8
+    21300018: Cow-Fly_9
+    21300020: Cow-Fly_10
+    21300022: Cow-Fly_11
+    21300024: Cow-Fly_12
+    21300026: Cow-Fly_13
+    21300028: Cow-Fly_14
+    21300030: Cow-Fly_15
+    21300032: Cow-Fly_16
+    21300034: Cow-Fly_17
+    21300036: Cow-Fly_18
+    21300038: Cow-Fly_19
+    21300040: Cow-Fly_20
+    21300042: Cow-Fly_21
+    21300044: Cow-Fly_22
+    21300046: Cow-Fly_23
+    21300048: Cow-Fly_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Cow-Fly_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_4
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_19
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_23
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cow-Fly_24
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .611999989, y: .93599999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

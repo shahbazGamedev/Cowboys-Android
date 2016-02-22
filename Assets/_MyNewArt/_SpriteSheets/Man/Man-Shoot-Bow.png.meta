@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: e7ffe7711dabef74a9cca8c62038d0b0
+timeCreated: 1449037224
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Man-Shoot-Bow_0
+    21300002: Man-Shoot-Bow_1
+    21300004: Man-Shoot-Bow_2
+    21300006: Man-Shoot-Bow_3
+    21300008: Man-Shoot-Bow_4
+    21300010: Man-Shoot-Bow_5
+    21300012: Man-Shoot-Bow_6
+    21300014: Man-Shoot-Bow_7
+    21300016: Man-Shoot-Bow_8
+    21300018: Man-Shoot-Bow_9
+    21300020: Man-Shoot-Bow_10
+    21300022: Man-Shoot-Bow_11
+    21300024: Man-Shoot-Bow_12
+    21300026: Man-Shoot-Bow_13
+    21300028: Man-Shoot-Bow_14
+    21300030: Man-Shoot-Bow_15
+    21300032: Man-Shoot-Bow_16
+    21300034: Man-Shoot-Bow_17
+    21300036: Man-Shoot-Bow_18
+    21300038: Man-Shoot-Bow_19
+    21300040: Man-Shoot-Bow_20
+    21300042: Man-Shoot-Bow_21
+    21300044: Man-Shoot-Bow_22
+    21300046: Man-Shoot-Bow_23
+    21300048: Man-Shoot-Bow_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Man-Shoot-Bow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_4
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1363
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_19
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_23
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bow_24
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

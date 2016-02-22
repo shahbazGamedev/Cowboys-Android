@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 1eb35af592e968d4da986907db81895a
+timeCreated: 1448976403
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Man-Idle-_0
+    21300002: Man-Idle-_1
+    21300004: Man-Idle-_2
+    21300006: Man-Idle-_3
+    21300008: Man-Idle-_4
+    21300010: Man-Idle-_5
+    21300012: Man-Idle-_6
+    21300014: Man-Idle-_7
+    21300016: Man-Idle-_8
+    21300018: Man-Idle-_9
+    21300020: Man-Idle-_10
+    21300022: Man-Idle-_11
+    21300024: Man-Idle-_12
+    21300026: Man-Idle-_13
+    21300028: Man-Idle-_14
+    21300030: Man-Idle-_15
+    21300032: Man-Idle-_16
+    21300034: Man-Idle-_17
+    21300036: Man-Idle-_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Man-Idle-_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_4
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Idle-_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .536000013, y: .374000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

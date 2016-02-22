@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 709ce3a982f6a9b40acd58d2f9667404
+timeCreated: 1449035168
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Man-Shoot-Bomb_0
+    21300002: Man-Shoot-Bomb_1
+    21300004: Man-Shoot-Bomb_2
+    21300006: Man-Shoot-Bomb_3
+    21300008: Man-Shoot-Bomb_4
+    21300010: Man-Shoot-Bomb_5
+    21300012: Man-Shoot-Bomb_6
+    21300014: Man-Shoot-Bomb_7
+    21300016: Man-Shoot-Bomb_8
+    21300018: Man-Shoot-Bomb_9
+    21300020: Man-Shoot-Bomb_10
+    21300022: Man-Shoot-Bomb_11
+    21300024: Man-Shoot-Bomb_12
+    21300026: Man-Shoot-Bomb_13
+    21300028: Man-Shoot-Bomb_14
+    21300030: Man-Shoot-Bomb_15
+    21300032: Man-Shoot-Bomb_16
+    21300034: Man-Shoot-Bomb_17
+    21300036: Man-Shoot-Bomb_18
+    21300038: Man-Shoot-Bomb_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Man-Shoot-Bomb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .527999997, y: .363000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1648
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .527999997, y: .363000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1648
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .52443105, y: .375134289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1648
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .527999997, y: .363000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .527999997, y: .363000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1248
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .527999997, y: .363000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1248
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .527999997, y: .363000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_7
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1248
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .527999997, y: .363000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .527999997, y: .363000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 848
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .523353457, y: .340290844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 848
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .524465501, y: .342397451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 848
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .532040119, y: .346260518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .524913967, y: .303978413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 448
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .517198622, y: .317750096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_14
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 448
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .523370981, y: .311847985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_15
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 448
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .521661758, y: .313824475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .519289911, y: .290815711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 48
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .522556186, y: .293592006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 48
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .523645043, y: .290815711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man-Shoot-Bomb_19
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 48
+        width: 510
+        height: 400
+      alignment: 9
+      pivot: {x: .524290562, y: .289688617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

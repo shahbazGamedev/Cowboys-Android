@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 2a60feb27270fc7478de2703f45496e3
+timeCreated: 1450318242
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kid-Die_0
+    21300002: Kid-Die_1
+    21300004: Kid-Die_2
+    21300006: Kid-Die_3
+    21300008: Kid-Die_4
+    21300010: Kid-Die_5
+    21300012: Kid-Die_6
+    21300014: Kid-Die_7
+    21300016: Kid-Die_8
+    21300018: Kid-Die_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Kid-Die_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1822
+        width: 172
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 4}
+        - {x: 66, y: 29}
+        - {x: 84, y: 43}
+        - {x: 86, y: 51}
+        - {x: 86, y: 80}
+        - {x: 81, y: 84}
+        - {x: 50, y: 102}
+        - {x: 47, y: 103}
+        - {x: 67, y: 102}
+        - {x: 86, y: 132}
+        - {x: 47, y: 200}
+        - {x: 9, y: 200}
+        - {x: -36, y: 184}
+        - {x: -66, y: 161}
+        - {x: -86, y: 137}
+        - {x: -86, y: 70}
+        - {x: -2, y: 0}
+        - {x: 24, y: 0}
+        - {x: 27, y: 6}
+        - {x: 31, y: 20}
+        - {x: 33, y: 13}
+    - name: Kid-Die_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1824
+        width: 175
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 198}
+        - {x: -87.5, y: 163}
+        - {x: -87.5, y: 65}
+        - {x: -12.5, y: 0}
+        - {x: 86.5, y: 0}
+        - {x: 87.5, y: 2}
+        - {x: 87.5, y: 131}
+        - {x: 63.5, y: 198}
+    - name: Kid-Die_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1823
+        width: 175
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 169}
+        - {x: -60.5, y: 169}
+        - {x: -84.5, y: 157}
+        - {x: -87.5, y: 152}
+        - {x: -87.5, y: 86}
+        - {x: 14.5, y: 0}
+        - {x: 87.5, y: 0}
+        - {x: 87.5, y: 102}
+        - {x: 77.5, y: 153}
+    - name: Kid-Die_3
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1825
+        width: 189
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 146}
+        - {x: -94.5, y: 117}
+        - {x: -94.5, y: 73}
+        - {x: -49.5, y: 40}
+        - {x: 52.5, y: 0}
+        - {x: 94.5, y: 0}
+        - {x: 94.5, y: 113}
+        - {x: 56.5, y: 146}
+    - name: Kid-Die_4
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1830
+        width: 197
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.5, y: 36}
+        - {x: -11.5, y: 0}
+        - {x: 98.5, y: 0}
+        - {x: 98.5, y: 55}
+        - {x: 73.5, y: 123}
+        - {x: -60.5, y: 123}
+        - {x: -98.5, y: 92}
+    - name: Kid-Die_5
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1829
+        width: 200
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 34}
+        - {x: 51, y: 84}
+        - {x: 44, y: 108}
+        - {x: -38, y: 108}
+        - {x: -82, y: 95}
+        - {x: -100, y: 55}
+        - {x: -100, y: 26}
+        - {x: -60, y: 0}
+        - {x: 94, y: 0}
+        - {x: 99, y: 1}
+        - {x: 100, y: 2}
+        - {x: 100, y: 34}
+    - name: Kid-Die_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1543
+        width: 204
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 124}
+        - {x: -102, y: 80}
+        - {x: -102, y: 2}
+        - {x: -89, y: 0}
+        - {x: 102, y: 0}
+        - {x: 102, y: 53}
+        - {x: 53, y: 124}
+    - name: Kid-Die_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1542
+        width: 202
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 122}
+        - {x: -50, y: 122}
+        - {x: -101, y: 90}
+        - {x: -101, y: 21}
+        - {x: -36, y: 0}
+        - {x: 96, y: 0}
+        - {x: 98, y: 3}
+        - {x: 101, y: 13}
+        - {x: 101, y: 45}
+    - name: Kid-Die_8
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1542
+        width: 198
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91, y: 119}
+        - {x: -99, y: 109}
+        - {x: -99, y: 38}
+        - {x: -69, y: 0}
+        - {x: 99, y: 0}
+        - {x: 99, y: 96}
+        - {x: 46, y: 119}
+    - name: Kid-Die_9
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1542
+        width: 195
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 118}
+        - {x: -97.5, y: 93}
+        - {x: -97.5, y: 44}
+        - {x: -94.5, y: 34}
+        - {x: -49.5, y: 0}
+        - {x: 97.5, y: 0}
+        - {x: 97.5, y: 43}
+        - {x: 49.5, y: 118}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

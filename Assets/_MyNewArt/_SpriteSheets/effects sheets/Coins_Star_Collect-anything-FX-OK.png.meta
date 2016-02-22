@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 14d2a02651f8bcd4ab6d7711aad51fa8
+timeCreated: 1449314654
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Coins_Star_Collect-anything-FX-OK_0
+    21300002: Coins_Star_Collect-anything-FX-OK_1
+    21300004: Coins_Star_Collect-anything-FX-OK_2
+    21300006: Coins_Star_Collect-anything-FX-OK_3
+    21300008: Coins_Star_Collect-anything-FX-OK_4
+    21300010: Coins_Star_Collect-anything-FX-OK_5
+    21300012: Coins_Star_Collect-anything-FX-OK_6
+    21300014: Coins_Star_Collect-anything-FX-OK_7
+    21300016: Coins_Star_Collect-anything-FX-OK_8
+    21300018: Coins_Star_Collect-anything-FX-OK_9
+    21300020: Coins_Star_Collect-anything-FX-OK_10
+    21300022: Coins_Star_Collect-anything-FX-OK_11
+    21300024: Coins_Star_Collect-anything-FX-OK_12
+    21300026: Coins_Star_Collect-anything-FX-OK_13
+    21300028: Coins_Star_Collect-anything-FX-OK_14
+    21300030: Coins_Star_Collect-anything-FX-OK_15
+    21300032: Coins_Star_Collect-anything-FX-OK_16
+    21300034: Coins_Star_Collect-anything-FX-OK_17
+    21300036: Coins_Star_Collect-anything-FX-OK_18
+    21300038: Coins_Star_Collect-anything-FX-OK_19
+    21300040: Coins_Star_Collect-anything-FX-OK_20
+    21300042: Coins_Star_Collect-anything-FX-OK_21
+    21300044: Coins_Star_Collect-anything-FX-OK_22
+    21300046: Coins_Star_Collect-anything-FX-OK_23
+    21300048: Coins_Star_Collect-anything-FX-OK_24
+    21300050: Coins_Star_Collect-anything-FX-OK_25
+    21300052: Coins_Star_Collect-anything-FX-OK_26
+    21300054: Coins_Star_Collect-anything-FX-OK_27
+    21300056: Coins_Star_Collect-anything-FX-OK_28
+    21300058: Coins_Star_Collect-anything-FX-OK_29
+    21300060: Coins_Star_Collect-anything-FX-OK_30
+    21300062: Coins_Star_Collect-anything-FX-OK_31
+    21300064: Coins_Star_Collect-anything-FX-OK_32
+    21300066: Coins_Star_Collect-anything-FX-OK_33
+    21300068: Coins_Star_Collect-anything-FX-OK_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Coins_Star_Collect-anything-FX-OK_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_3
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_4
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_8
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_9
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_10
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_14
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_15
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_16
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 908
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 908
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_22
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_23
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 623
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_29
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 338
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 53
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 53
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_33
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 53
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coins_Star_Collect-anything-FX-OK_34
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 53
+        width: 340
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

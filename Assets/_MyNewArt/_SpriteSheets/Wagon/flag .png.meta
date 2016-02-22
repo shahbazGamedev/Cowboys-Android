@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: aedaea1c5bd22a24aa5cd367abffae99
+timeCreated: 1448976004
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flag _0
+    21300002: flag _1
+    21300004: flag _2
+    21300006: flag _3
+    21300008: flag _4
+    21300010: flag _5
+    21300012: flag _6
+    21300014: flag _7
+    21300016: flag _8
+    21300018: flag _9
+    21300020: flag _10
+    21300022: flag _11
+    21300024: flag _12
+    21300026: flag _13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 6
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: flag _0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1881
+        width: 133
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1882
+        width: 133
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _2
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1882
+        width: 133
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1881
+        width: 134
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1522
+        width: 133
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1521
+        width: 133
+        height: 161
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _6
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1520
+        width: 133
+        height: 162
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _7
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1521
+        width: 134
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1160
+        width: 133
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1160
+        width: 132
+        height: 159
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _10
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1159
+        width: 132
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _11
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1160
+        width: 133
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 796
+        width: 134
+        height: 161
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flag _13
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 796
+        width: 133
+        height: 160
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

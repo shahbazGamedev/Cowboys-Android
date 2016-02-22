@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: b82ef06eb52c53b428d94bc0f57ce9e5
+timeCreated: 1448978681
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kid_shoot_0
+    21300002: kid_shoot_1
+    21300004: kid_shoot_2
+    21300006: kid_shoot_3
+    21300008: kid_shoot_4
+    21300010: kid_shoot_5
+    21300012: kid_shoot_6
+    21300014: kid_shoot_7
+    21300016: kid_shoot_8
+    21300018: kid_shoot_9
+    21300020: kid_shoot_10
+    21300022: kid_shoot_11
+    21300024: kid_shoot_12
+    21300026: kid_idle_0
+    21300028: kid_idle_1
+    21300030: kid_idle_2
+    21300032: kid_idle_3
+    21300034: kid_idle_4
+    21300036: kid_idle_5
+    21300038: kid_idle_6
+    21300040: kid_idle_7
+    21300042: kid_idle_8
+    21300044: kid_idle_9
+    21300046: kid_idle_10
+    21300048: kid_idle_11
+    21300050: kid_idle_12
+    21300052: kid_idle_13
+    21300054: kid_idle_14
+    21300056: kid_idle_15
+    21300058: kid_idle_16
+    21300060: kid_idle_17
+    21300062: kid_idle_18
+    21300064: kid_idle_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: kid_shoot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1763
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_11
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1478
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_shoot_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1193
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_0
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 908
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 908
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 623
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 623
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 623
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 623
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 623
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 338
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 338
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 338
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 338
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 53
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 53
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 53
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 53
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kid_idle_19
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 53
+        width: 340
+        height: 285
+      alignment: 9
+      pivot: {x: .5, y: .254000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

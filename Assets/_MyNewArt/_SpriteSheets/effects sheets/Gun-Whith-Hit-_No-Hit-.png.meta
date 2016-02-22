@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 53ad6fe40a4b2d043bac70d10911894d
+timeCreated: 1449236005
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gun-Whith-Hit-_No-Hit-_0
+    21300002: Gun-Whith-Hit-_No-Hit-_1
+    21300004: Gun-Whith-Hit-_No-Hit-_2
+    21300006: Gun-Whith-Hit-_No-Hit-_3
+    21300008: Gun-Whith-Hit-_No-Hit-_4
+    21300010: Gun-Whith-Hit-_No-Hit-_5
+    21300012: Gun-Whith-Hit-_No-Hit-_6
+    21300014: Gun-Whith-Hit-_No-Hit-_7
+    21300016: Gun-Whith-Hit-_No-Hit-_8
+    21300018: Gun-Whith-Hit-_No-Hit-_9
+    21300020: Gun-Whith-Hit-_No-Hit-_10
+    21300022: Gun-Whith-Hit-_No-Hit-_11
+    21300024: Gun-Whith-Hit-_No-Hit-_12
+    21300026: Gun-Whith-Hit-_No-Hit-_13
+    21300028: Gun-Whith-Hit-_No-Hit-_14
+    21300030: Gun-Whith-Hit-_No-Hit-_15
+    21300032: Gun-Whith-Hit-_No-Hit-_16
+    21300034: Gun-Whith-Hit-_No-Hit-_17
+    21300036: Gun-Whith-Hit-_No-Hit-_18
+    21300038: Gun-Whith-Hit-_No-Hit-_19
+    21300040: Gun-Whith-Hit-_No-Hit-_20
+    21300042: Gun-Whith-Hit-_No-Hit-_21
+    21300044: Gun-Whith-Hit-_No-Hit-_22
+    21300046: Gun-Whith-Hit-_No-Hit-_28
+    21300048: Gun-Whith-Hit-_No-Hit-_29
+    21300050: Gun-Whith-Hit-_No-Hit-_30
+    21300052: Gun-Whith-Hit-_No-Hit-_31
+    21300054: Gun-Whith-Hit-_No-Hit-_33
+    21300056: Gun-Whith-Hit-_No-Hit-_36
+    21300058: Gun-Whith-Hit-_No-Hit-_66
+    21300060: Gun-Whith-Hit-_No-Hit-_67
+    21300062: Gun-Whith-Hit-_No-Hit-_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Gun-Whith-Hit-_No-Hit-_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1896
+        width: 76
+        height: 18
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1898
+        width: 228
+        height: 18
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_2
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1903
+        width: 209
+        height: 15
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_3
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1908
+        width: 166
+        height: 11
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_4
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1909
+        width: 43
+        height: 7
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1333
+        width: 9
+        height: 18
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1336
+        width: 85
+        height: 19
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1340
+        width: 228
+        height: 18
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_8
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1337
+        width: 192
+        height: 18
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_9
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1335
+        width: 144
+        height: 18
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_10
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1332
+        width: 82
+        height: 19
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 997
+        width: 77
+        height: 148
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1008
+        width: 67
+        height: 122
+      alignment: 9
+      pivot: {x: .180412635, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1019
+        width: 58
+        height: 123
+      alignment: 9
+      pivot: {x: .270000011, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_14
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1019
+        width: 63
+        height: 124
+      alignment: 9
+      pivot: {x: .270000011, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_15
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1018
+        width: 63
+        height: 124
+      alignment: 9
+      pivot: {x: .270000011, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1019
+        width: 69
+        height: 126
+      alignment: 9
+      pivot: {x: .270000011, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 739
+        width: 69
+        height: 126
+      alignment: 9
+      pivot: {x: .270000011, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 742
+        width: 81
+        height: 134
+      alignment: 9
+      pivot: {x: .304077148, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_19
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 741
+        width: 80
+        height: 134
+      alignment: 9
+      pivot: {x: .304077089, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_20
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 732
+        width: 83
+        height: 149
+      alignment: 9
+      pivot: {x: .304077089, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_21
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 731
+        width: 84
+        height: 148
+      alignment: 9
+      pivot: {x: .304077089, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_22
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 720
+        width: 103
+        height: 166
+      alignment: 9
+      pivot: {x: .304077089, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 444
+        width: 95
+        height: 162
+      alignment: 9
+      pivot: {x: .371028692, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_29
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 451
+        width: 119
+        height: 170
+      alignment: 9
+      pivot: {x: .371028692, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_30
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 439
+        width: 114
+        height: 176
+      alignment: 9
+      pivot: {x: .371028692, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_31
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 459
+        width: 124
+        height: 161
+      alignment: 9
+      pivot: {x: .371028692, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_33
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 453
+        width: 131
+        height: 164
+      alignment: 9
+      pivot: {x: .371028692, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_36
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 472
+        width: 137
+        height: 148
+      alignment: 9
+      pivot: {x: .371028692, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 187
+        width: 141
+        height: 149
+      alignment: 9
+      pivot: {x: .371028692, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_67
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 186
+        width: 154
+        height: 155
+      alignment: 9
+      pivot: {x: .344201833, y: .511399806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun-Whith-Hit-_No-Hit-_69
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 175
+        width: 147
+        height: 166
+      alignment: 9
+      pivot: {x: .360591561, y: .510644376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

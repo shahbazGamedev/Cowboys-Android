@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 1ea296ae0501fc742be004ffdd0d701c
+timeCreated: 1449037547
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Man_Shoot_Dynmite_0
+    21300002: Man_Shoot_Dynmite_1
+    21300004: Man_Shoot_Dynmite_2
+    21300006: Man_Shoot_Dynmite_3
+    21300008: Man_Shoot_Dynmite_4
+    21300010: Man_Shoot_Dynmite_5
+    21300012: Man_Shoot_Dynmite_6
+    21300014: Man_Shoot_Dynmite_7
+    21300016: Man_Shoot_Dynmite_8
+    21300018: Man_Shoot_Dynmite_9
+    21300020: Man_Shoot_Dynmite_10
+    21300022: Man_Shoot_Dynmite_11
+    21300024: Man_Shoot_Dynmite_12
+    21300026: Man_Shoot_Dynmite_13
+    21300028: Man_Shoot_Dynmite_14
+    21300030: Man_Shoot_Dynmite_15
+    21300032: Man_Shoot_Dynmite_16
+    21300034: Man_Shoot_Dynmite_17
+    21300036: Man_Shoot_Dynmite_18
+    21300038: Man_Shoot_Dynmite_19
+    21300040: Man_Shoot_Dynmite_20
+    21300042: Man_Shoot_Dynmite_21
+    21300044: Man_Shoot_Dynmite_22
+    21300046: Man_Shoot_Dynmite_23
+    21300048: Man_Shoot_Dynmite_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Man_Shoot_Dynmite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_4
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1705
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .531632245, y: .368392915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .531632066, y: .380917042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .531632364, y: .374655157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .523735821, y: .374655157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1362
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .523735523, y: .374655157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .380917042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .526367784, y: .374655157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .526367784, y: .352737993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .526367784, y: .365262121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_14
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1019
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .526367784, y: .358999878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_19
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 676
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .528999984, y: .358999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .529000103, y: .364744931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_23
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .529000103, y: .367617428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Man_Shoot_Dynmite_24
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 333
+        width: 408
+        height: 343
+      alignment: 9
+      pivot: {x: .529000103, y: .367617428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
