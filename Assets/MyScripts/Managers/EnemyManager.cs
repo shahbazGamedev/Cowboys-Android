@@ -51,20 +51,25 @@ public class EnemyManager : MonoBehaviour {
 	}
 
 	void Start () {
-		//InvokeRepeating ("SpawnEjemy", 1, 1.5f);
 
 		enemiesGroups = EnemiesSpawnData.Instance.InitEnemiesGroups();
         
-		//if(!GameMaster.Instance.isStaticEnvironment){
-			Invoke("SpawnNextFrontGroup", spawnEnemiesDelay);
-		//}
-		//else{
-			//Invoke("SpawnNextBackGroup", spawnEnemiesDelay);
-		//}
-    
+	   Invoke("SpawnNextFrontGroup", spawnEnemiesDelay);
+		
 		healthBarsPool = new List<GameObject> ();
 	}
-	
+
+    bool started;
+    public void StartEnemies()
+    {
+        //enemyPrefabs[0].GetComponent<EnemyAI>().moveSpeed = 0;
+
+        enemiesGroups = EnemiesSpawnData.Instance.InitEnemiesGroups();
+        Invoke("SpawnNextFrontGroup", spawnEnemiesDelay);
+
+        started = true;
+    }
+
 
 	/*
 	void SpawnEnemy () {
@@ -185,7 +190,8 @@ public class EnemyManager : MonoBehaviour {
 	}
 
 	void Update(){
-		levelProgressBar.value = Mathf.Lerp(levelProgressBar.value , 1- (float)((float)(currentGroup)/ (float)(enemiesGroups.Length)), Time.deltaTime * 2);
+       // if(started)
+		    levelProgressBar.value = Mathf.Lerp(levelProgressBar.value , 1- (float)((float)(currentGroup)/ (float)(enemiesGroups.Length)), Time.deltaTime * 2);
 
 	}
 
