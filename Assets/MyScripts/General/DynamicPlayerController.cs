@@ -52,6 +52,8 @@ public class DynamicPlayerController : MonoBehaviour {
 			kidOriginalRotation = Kid.transform.rotation;
 
 		weaponsScript = GetComponent<Weapons>();
+
+        SoundManager.PlaySFXLoop(AllSplited.GetComponent<AudioSource>() ,"Donkey_Run");
 	}
 
 	void FixedUpdate(){
@@ -60,6 +62,8 @@ public class DynamicPlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        if (dead)
+            SoundManager.StopSFX();
 
         //Debug.Log(manAnim.GetCurrentAnimatorStateInfo(0).nameHash);
 		if(!isKid){

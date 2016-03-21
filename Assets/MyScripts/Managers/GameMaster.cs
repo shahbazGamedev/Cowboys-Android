@@ -252,6 +252,7 @@ public class GameMaster : MonoBehaviour
 
     public void Win()
     {
+        SoundManager.StopSFX();
         CancelInvoke("DropGoldenStar");
         //obstaclesParent.SetActive(false);
         Health playerHealthScript = player.GetComponent<Health>();
