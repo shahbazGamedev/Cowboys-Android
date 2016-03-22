@@ -27,6 +27,8 @@ public class CoinDropped : MonoBehaviour
 
     public void Disable()
     {
+        if (IsInvoking("Disable"))
+            CancelInvoke("Disable");
         GameMaster.Instance.AdjustGold(goldAmount);
         gameObject.SetActive(false);
        

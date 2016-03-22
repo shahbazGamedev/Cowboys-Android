@@ -13,6 +13,7 @@ public class ButtonResume : MonoBehaviour {
 	void OnClick () {
 		
 		PauseScreen.SetActive(false);
+
         Time.timeScale = 1;
 	}
 }

@@ -297,6 +297,7 @@ public class EnemyHealth : MonoBehaviour {
             healthBar.transform.GetChild(2).GetComponent<UILabel>().alpha = 0;
         }
 
+        transform.GetComponentInChildren<SpriteRenderer>().color = Color.white;
 
         transform.GetChild(2).GetComponent<SpriteRenderer>().sortingOrder += Random.Range(1, 5);
     }

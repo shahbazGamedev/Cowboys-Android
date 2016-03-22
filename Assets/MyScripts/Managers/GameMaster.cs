@@ -98,6 +98,8 @@ public class GameMaster : MonoBehaviour
     public Transform minus5Coins;
     public List<GameObject> coinsReducedPool;
 
+    public bool RankWithPlayerHealth;
+
     void Awake()
     {
         //temp for test
@@ -143,7 +145,7 @@ public class GameMaster : MonoBehaviour
         OwnedCoins = PlayerPrefs.GetInt("gold", 50000);
         goldLabel.text = OwnedCoins + "";
         collectedCoins = 0;
-        starsCount = 0;
+        starsCount = 1;
 
         Invoke("DropGoldenStar", GoldenStarTime);
 
@@ -179,10 +181,10 @@ public class GameMaster : MonoBehaviour
         goldLabel.text = OwnedCoins + "";
 
         collectedCoins++;
-        if (collectedCoins == totalEnemiesNumer)
-        {
-            starsCount++;
-        }
+        //if (collectedCoins == totalEnemiesNumer)
+        //{
+        //    starsCount++;
+        //}
 
     }
 
@@ -258,7 +260,7 @@ public class GameMaster : MonoBehaviour
         CancelInvoke("DropGoldenStar");
         //obstaclesParent.SetActive(false);
         Health playerHealthScript = player.GetComponent<Health>();
-        if (playerHealthScript.currentHealth == playerHealthScript.MaxHealth)
+        if (RankWithPlayerHealth && playerHealthScript.currentHealth == playerHealthScript.MaxHealth)
         {
             starsCount++;
         }
@@ -449,5 +451,15 @@ public class GameMaster : MonoBehaviour
                
             }
         }
+    }
+
+
+    public void GoToMainMenu()
+    {
+
+    }
+    public void OpenNextLevel()
+    {
+
     }
 }

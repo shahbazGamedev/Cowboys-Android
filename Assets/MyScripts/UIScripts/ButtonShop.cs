@@ -25,7 +25,7 @@ public class ButtonShop : MonoBehaviour {
     {
 
         ShopPanel.SetActive(open);
-        Fan.SetActive(!open);
+        //Fan.SetActive(!open);
         mainMenuPanel.SetActive(!open);
 
     }

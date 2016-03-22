@@ -57,7 +57,7 @@ public class DynamicPlayerController : MonoBehaviour {
 	}
 
 	void FixedUpdate(){
-		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
+		//grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
 	}
 	
 	// Update is called once per frame
@@ -116,7 +116,7 @@ public class DynamicPlayerController : MonoBehaviour {
 	}
     */
 	void Attack(){
-		if(Input.GetMouseButtonDown(0)  && canShoot /*&& !manAnim.IsInTransition(0)*/ && grounded){
+		if(Input.GetMouseButtonDown(0)  && canShoot /*&& !manAnim.IsInTransition(0)*/){
 			if(ScreenManager.Instance.CheckScreenBorder()){
 
                 if (Weapons_PUs_Manager.Instance.currentBulletsCounts[weaponsScript.currentWeapon] > 0)
@@ -179,7 +179,7 @@ public class DynamicPlayerController : MonoBehaviour {
 
 
 	void KidAttack(){
-		if(Input.GetMouseButtonDown(0)  && canShoot && !manAnim.IsInTransition(0) && grounded){
+		if(Input.GetMouseButtonDown(0)  && canShoot && !manAnim.IsInTransition(0)){
 			if(ScreenManager.Instance.CheckScreenBorder()){
 				resetRotation = false;
 				CancelInvoke("ResetRotation");
@@ -266,6 +266,7 @@ public class DynamicPlayerController : MonoBehaviour {
 
 	public void SwitchToKid(){
 		isKid = true;
+        manAnim.SetBool("idle", true);
 
 	}
 

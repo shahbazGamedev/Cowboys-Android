@@ -28,6 +28,7 @@ public class EnemyAI : MonoBehaviour {
 	bool grandFlipped;
 
 	public float damage = 10;
+    private float startDamag;
 
     [HideInInspector]
     public bool isFreezed = false;
@@ -52,6 +53,7 @@ public class EnemyAI : MonoBehaviour {
 		//isKid = player.GetComponent<PlayerController>().isKid;
 
         startSpeed = moveSpeed;
+        startDamag = damage;
 	}
 	
 	void FixedUpdate () {
@@ -332,6 +334,7 @@ public class EnemyAI : MonoBehaviour {
         isAttacking = false;
 
         moveSpeed = startSpeed;
+        damage = startDamag;
 
         CancelInvoke("Evade");
         CancelInvoke("GoToAttack");

@@ -89,4 +89,11 @@ public class ScreenManager : MonoBehaviour {
     {
         return (target.x < quarter.x && target.y > quarter.y);
     }
+
+    public void EnableShopInMainMenu()
+    {
+        PlayerPrefs.SetInt("openShop", 1);
+    }
+
+   
 }

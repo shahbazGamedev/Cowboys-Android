@@ -72,6 +72,7 @@ public class Health : MonoBehaviour {
 		if(healthBar){
 			healthBar.value =  (float)( currentHealth/MaxHealth);
 		}
+        GameMaster.Instance.RankWithPlayerHealth = false;
 	}
 
     public void AddHp(float amount)
