@@ -368,7 +368,7 @@ public class CowEnemyAI : MonoBehaviour {
 
         if (hasEscaped)
         {
-            EnemyManager.Instance.AdjustRemainingEnemies();
+            EnemyManager.Instance.AdjustRemainingEnemies(gameObject);
         }
 		gameObject.SetActive(false);
 	}

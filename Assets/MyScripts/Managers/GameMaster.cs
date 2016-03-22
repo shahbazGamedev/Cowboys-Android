@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+using System.Collections.Generic;
 public class GameMaster : MonoBehaviour
 {
 
@@ -96,6 +96,7 @@ public class GameMaster : MonoBehaviour
     public GameObject[] coinsReduced;
 
     public Transform minus5Coins;
+    public List<GameObject> coinsReducedPool;
 
     void Awake()
     {
@@ -105,6 +106,7 @@ public class GameMaster : MonoBehaviour
 
         Instance = this;
 
+        coinsReducedPool = new List<GameObject>();
     }
 
     void Start()
@@ -401,7 +403,8 @@ public class GameMaster : MonoBehaviour
             GameObject go;
             foreach (GameObject coin in coinsReduced)
             {
-                if (coin.active == true)
+
+                if (coinsReducedPool.Count <= 0)
                 {
                     go = GameObject.Instantiate(coinsReduced[0], Vector3.zero, Quaternion.identity) as GameObject;
                     go.transform.parent = coinsReduced[0].transform.parent;
@@ -418,14 +421,29 @@ public class GameMaster : MonoBehaviour
                 }
                 else
                 {
-                    coin.transform.position = player.transform.position;
+                    go = coinsReducedPool[0];
+                    coinsReducedPool.RemoveAt(0);
 
-                    coin.SetActive(true);
+                    go.transform.position = player.transform.position;
+
+                    go.SetActive(true);
 
                     forceDirection = new Vector2(Random.Range(-0.7f, 0.7f), Random.Range(0.8f, 1f)) * 200;
 
-                    coin.GetComponent<Rigidbody2D>().AddForce(forceDirection);
+                    go.GetComponent<Rigidbody2D>().AddForce(forceDirection);
+
+                    
                 }
+                //else
+                //{
+                //    coin.transform.position = player.transform.position;
+
+                //    coin.SetActive(true);
+
+                //    forceDirection = new Vector2(Random.Range(-0.7f, 0.7f), Random.Range(0.8f, 1f)) * 200;
+
+                //    coin.GetComponent<Rigidbody2D>().AddForce(forceDirection);
+                //}
                    
                 
                

@@ -180,7 +180,8 @@ public class EnemyHealth : MonoBehaviour {
 
 
 	void Die(){
-		EnemyManager.Instance.AdjustRemainingEnemies();
+		EnemyManager.Instance.AdjustRemainingEnemies(gameObject);
+
 
         anim.SetBool("Die", true);
         if (GetComponent<EnemyAI>())
@@ -231,7 +232,7 @@ public class EnemyHealth : MonoBehaviour {
 
     void DieElectric()
     {
-        EnemyManager.Instance.AdjustRemainingEnemies();
+        EnemyManager.Instance.AdjustRemainingEnemies(gameObject);
 
         anim.SetBool("DieElectric", true);
         if (GetComponent<EnemyAI>())
@@ -281,5 +282,22 @@ public class EnemyHealth : MonoBehaviour {
         }
        
 
+    }
+
+    public void Reset()
+    {
+        
+        currentHealth = MaxHealth;
+
+        if (healthBar)
+        {
+            healthBar.value = currentHealth / MaxHealth;
+            healthBar.transform.GetChild(2).GetComponent<TweenAlpha>().ResetToBeginning();
+            healthBar.transform.GetChild(2).GetComponent<TweenPosition>().ResetToBeginning();
+            healthBar.transform.GetChild(2).GetComponent<UILabel>().alpha = 0;
+        }
+
+
+        transform.GetChild(2).GetComponent<SpriteRenderer>().sortingOrder += Random.Range(1, 5);
     }
 }

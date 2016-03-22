@@ -45,18 +45,24 @@ public class EnemyManager : MonoBehaviour {
     public float multikillRate = .1f;
     public int multikills;
 
+    private Dictionary<int, List<GameObject>> EnemiesPool; 
+
 	void Awake(){
 		Instance = this;
+
+        healthBarsPool = new List<GameObject>();
+        EnemiesPool = new Dictionary<int, List<GameObject>>();
 
 	}
 
 	void Start () {
 
-		enemiesGroups = EnemiesSpawnData.Instance.InitEnemiesGroups();
+	    enemiesGroups = EnemiesSpawnData.Instance.InitEnemiesGroups();
         
-	   Invoke("SpawnNextFrontGroup", spawnEnemiesDelay);
+	    Invoke("SpawnNextFrontGroup", spawnEnemiesDelay);
+
+        
 		
-		healthBarsPool = new List<GameObject> ();
 	}
 
     bool started;
@@ -95,10 +101,29 @@ public class EnemyManager : MonoBehaviour {
 		for(int i=0; i<enemiesGroups[currentGroup].Count; i++){
 			data = enemiesGroups[currentGroup][i];
 			for(int j=0; j<data.y ; j++){
-				GameObject enemy = Instantiate (enemyPrefabs[(int)data.x], frontSpawnPoints[i+j].position, frontSpawnPoints[i+j].rotation) as GameObject;
+                GameObject enemy;
+                if (EnemiesPool.ContainsKey((int)data.x))
+                {
+                    enemy = EnemiesPool[(int)data.x][0];
+                    UpdateEnemiesPool((int)data.x, null);
 
-                enemy.name = UnityEngine.Random.Range(0, 50)+ToString();
+                    enemy.transform.position = frontSpawnPoints[i + j].position;
+                    enemy.transform.rotation = frontSpawnPoints[i + j].rotation;
 
+                    
+                    enemy.GetComponent<EnemyHealth>().Reset();
+                    enemy.GetComponent<EnemyAI>().Reset();
+                    enemy.SetActive(true);
+                }
+                else
+                {
+                    enemy = Instantiate(enemyPrefabs[(int)data.x], frontSpawnPoints[i + j].position, frontSpawnPoints[i + j].rotation) as GameObject;
+
+                    //UpdateEnemiesPool((int)data.x, enemy);
+                }
+
+
+                enemy.name = (int)data.x + "";
 				GameObject healthBar = CreateHealthBar();
 
 				enemy.GetComponent<EnemyHealth>().healthBar = healthBar.GetComponent<UISlider>();
@@ -123,6 +148,35 @@ public class EnemyManager : MonoBehaviour {
 		return healthBar;
 	}
 
+
+    private void UpdateEnemiesPool(int key, GameObject enemy)
+    {
+        if (enemy != null)
+        {
+            if (EnemiesPool.ContainsKey(key))
+            {
+                EnemiesPool[key].Add(enemy);
+            }
+            else
+            {
+                Debug.Log(key +" kk "+ gameObject.name);
+                List<GameObject> list = new List<GameObject>();
+                list.Add(enemy);
+                EnemiesPool.Add(key, list);
+            }
+            return;
+        }
+
+        if (EnemiesPool[key].Count <= 1)
+        {
+            EnemiesPool.Remove(key);
+            return;
+        }
+
+        EnemiesPool[key].RemoveAt(0);
+
+    }
+
 	private int CalculateRowTotalEnemies(List<Vector2> rowList){
 		int count = 0;
 		for (int i=0; i<rowList.Count; i++) {
@@ -131,7 +185,8 @@ public class EnemyManager : MonoBehaviour {
 		return count;
 	}
 
-	public void AdjustRemainingEnemies(){
+	public void AdjustRemainingEnemies(GameObject go){
+        UpdateEnemiesPool(int.Parse(go.name), go);
         currentRemaining--;
         
        
@@ -179,8 +234,31 @@ public class EnemyManager : MonoBehaviour {
 
 			data = enemiesGroups[currentGroup][i];
 			for(int j=0; j<data.y ; j++){
-				GameObject enemy = Instantiate (enemyPrefabs[(int)data.x], backSpawnPoints[i+j].position, backSpawnPoints[i+j].rotation) as GameObject;
-				GameObject healthBar = Instantiate (enemyHealtgBarPrefab, Vector3.zero, Quaternion.identity) as GameObject;
+                GameObject enemy;
+
+                if (EnemiesPool.ContainsKey((int)data.x))
+                {
+                    enemy = EnemiesPool[(int)data.x][0];
+                    UpdateEnemiesPool((int)data.x, null);
+
+                    enemy.transform.position = backSpawnPoints[i + j].position;
+                    enemy.transform.rotation = backSpawnPoints[i + j].rotation;
+
+
+                    enemy.GetComponent<EnemyHealth>().Reset();
+                    enemy.GetComponent<EnemyAI>().Reset();
+                    enemy.SetActive(true);
+                }
+                else
+                {
+                   enemy = Instantiate(enemyPrefabs[(int)data.x], backSpawnPoints[i + j].position, backSpawnPoints[i + j].rotation) as GameObject;
+                    //UpdateEnemiesPool((int)data.x, enemy);
+                }
+
+
+                enemy.name = (int)data.x + "";
+
+                GameObject healthBar = Instantiate (enemyHealtgBarPrefab, Vector3.zero, Quaternion.identity) as GameObject;
 				
 				healthBar.transform.parent = BarsParent;
 				healthBar.transform.localScale = new Vector3 (0.4974203f, 0.4974203f, 0.4974203f);

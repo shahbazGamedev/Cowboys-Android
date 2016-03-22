@@ -50,6 +50,8 @@ public class EnemyAI : MonoBehaviour {
         if (isRanged)
             bulletSpawnPosition = transform.GetChild(3);
 		//isKid = player.GetComponent<PlayerController>().isKid;
+
+        startSpeed = moveSpeed;
 	}
 	
 	void FixedUpdate () {
@@ -321,5 +323,18 @@ public class EnemyAI : MonoBehaviour {
         isFreezed = false;
         transform.GetChild(0).gameObject.SetActive(true);
         transform.GetChild(2).gameObject.SetActive(false);
+    }
+
+    public void Reset()
+    {
+        isDead = false;
+        isFreezed = false;
+        isAttacking = false;
+
+        moveSpeed = startSpeed;
+
+        CancelInvoke("Evade");
+        CancelInvoke("GoToAttack");
+        CancelInvoke("GoToEvade");
     }
 }
