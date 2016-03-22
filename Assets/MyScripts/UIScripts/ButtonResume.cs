@@ -15,5 +15,7 @@ public class ButtonResume : MonoBehaviour {
 		PauseScreen.SetActive(false);
 
         Time.timeScale = 1;
+
+        GameMaster.Instance.ResumePausedSFXs();
 	}
 }

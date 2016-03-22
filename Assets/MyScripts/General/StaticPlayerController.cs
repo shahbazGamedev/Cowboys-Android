@@ -257,7 +257,7 @@ public class StaticPlayerController : MonoBehaviour {
             
         }
 
-
+        
 		//Invoke("EnableAll_DisableRest", .05f);
 		GameMaster.Instance.Lose();
 	}

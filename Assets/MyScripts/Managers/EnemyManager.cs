@@ -290,6 +290,8 @@ public class EnemyManager : MonoBehaviour {
         //go.GetComponent<Button_CoinDropped>().startingPos = go.transform.localPosition;
         //go.GetComponent<Button_CoinDropped> ().goldAmount = goldAmount;
 
+        SoundManager.PlaySFX("Coins_Fall");
+
 	}
 
     public void DropHpGift(Transform enemy)

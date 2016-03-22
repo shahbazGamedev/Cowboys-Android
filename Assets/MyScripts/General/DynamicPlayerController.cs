@@ -53,8 +53,15 @@ public class DynamicPlayerController : MonoBehaviour {
 
 		weaponsScript = GetComponent<Weapons>();
 
-        SoundManager.PlaySFXLoop(AllSplited.GetComponent<AudioSource>() ,"Donkey_Run");
+        Invoke("StartDonkeyEffectSound", .5f);
 	}
+
+    public void StartDonkeyEffectSound()
+    {
+        SoundManager.PlaySFXLoop(AllSplited.GetComponent<AudioSource>(), "Donkey_Run");
+    }
+
+   
 
 	void FixedUpdate(){
 		//grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
@@ -62,9 +69,7 @@ public class DynamicPlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (dead)
-            SoundManager.StopSFX();
-
+       
         //Debug.Log(manAnim.GetCurrentAnimatorStateInfo(0).nameHash);
 		if(!isKid){
 			if(GameMaster.Instance.inputEnabled){
@@ -116,7 +121,7 @@ public class DynamicPlayerController : MonoBehaviour {
 	}
     */
 	void Attack(){
-		if(Input.GetMouseButtonDown(0)  && canShoot /*&& !manAnim.IsInTransition(0)*/){
+		if(Input.GetMouseButtonDown(0)  && canShoot /*&& !manAnim.IsInTransition(0)*/ && Time.timeScale>0){
 			if(ScreenManager.Instance.CheckScreenBorder()){
 
                 if (Weapons_PUs_Manager.Instance.currentBulletsCounts[weaponsScript.currentWeapon] > 0)
@@ -218,6 +223,10 @@ public class DynamicPlayerController : MonoBehaviour {
 	}
 	
 	public void Die(){
+        //SoundManager.StopSFX();
+        
+            
+
 		canJump = false;
 		canShoot = false;
 		dead = true;

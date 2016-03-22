@@ -29,7 +29,7 @@ public class Health : MonoBehaviour {
 	
 	// Update is called once per frame
 	public void ApplyDamage (float amount) {
-
+        
         if (shieldHealth > 0)
         {
             float amountDiff = shieldHealth - amount;
@@ -57,14 +57,14 @@ public class Health : MonoBehaviour {
 
 		if(currentHealth <= 0){
 			currentHealth = 0;
-
+            //SoundManager.PlaySFX("Human_Die");
 
             if(GameMaster.Instance.isStaticEnvironment)
                 GetComponent<StaticPlayerController>().Die();
             else
                 GetComponent<DynamicPlayerController>().Die();
 
-
+            
 		}
 
        
@@ -104,6 +104,8 @@ public class Health : MonoBehaviour {
             GetComponent<StaticPlayerController>().Revive();
         else
             GetComponent<DynamicPlayerController>().Revive();
+
+        SoundManager.PlaySFX("Human Male Yes Excited Yes 01");
 
     }
 

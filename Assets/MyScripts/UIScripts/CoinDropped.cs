@@ -23,6 +23,7 @@ public class CoinDropped : MonoBehaviour
     {
         isTaken = true;
         //GameMaster.Instance.AdjustGold(goldAmount);
+        SoundManager.PlaySFX("Coins_Collected");
     }
 
     public void Disable()

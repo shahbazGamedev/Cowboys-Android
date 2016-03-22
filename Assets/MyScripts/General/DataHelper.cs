@@ -22,21 +22,32 @@ public class DataHelper{
     // --------------------------------------------------     0   ,   1   ,  2    ,   3    ,   4  ,    5      ,     6     ,     7    ,     8         ,   9
     public static string[] WEAPONS_NAMES = new string[] { "pistol", "gun", "bottle", "bomb", "bow", "dynamite", "molotove", "iceBomb", "electricBomb", "shield" };
 
+    public static string[] SFX_FIRING = new string[]{ "Man_Gun_Shoot",
+        "Man _Shotgun_Shoot",
+        "Man_Bottle_Bomb_Dynamit_Shoot",
+        "Man_Bottle_Bomb_Dynamit_Shoot",
+        "Man_Arrow_Shoot",
+        "Man_Bottle_Bomb_Dynamit_Shoot",
+        "Man_Molotov_Shoot",
+        "Man_Bottle_Bomb_Dynamit_Shoot",
+        "Man_Electric_thunder_Shoot",
+        ""};
+
    // public static int[] ULOCKING_LEVEL =    new int[] { 1, 3, 1, 1, 6, 1, 1, 1, 1 };
 
     //temp
     public static int[] ULOCKING_LEVEL = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1,1 };
 
-    public static int[] DEFAULT_OWNED  =    new int[] { 1, 0, 1, 1, 0, 1, 1, 1, 1, 1 };
+    //public static int[] DEFAULT_OWNED  =    new int[] { 1, 0, 1, 1, 0, 1, 1, 1, 1, 1 };
     //temppp
-    //public static int[] DEFAULT_OWNED = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+    public static int[] DEFAULT_OWNED = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
     //public static int[] DEFAULT_OWNED = new int[] { 0, 0, 1, 0, 0, 0, 0, 0, 0, 0 };
 
     public static int[] UNLOCK_PRICES = new int[] { 0, 7000, 0, 0, 12000, 0, 0, 0, 0, 0 };
 
-    public static int[] WEAPONS_DEFAULT_BULLETS = new int[] {18, 0, 500, 0,  0, 0, 0, 0, 0, 0};
+    //public static int[] WEAPONS_DEFAULT_BULLETS = new int[] {18, 0, 500, 0,  0, 0, 0, 0, 0, 0};
     //tempppp
-    //public static int[] WEAPONS_DEFAULT_BULLETS = new int[] { 55, 55, 55, 55, 55, 55, 55, 55, 55, 66 };
+    public static int[] WEAPONS_DEFAULT_BULLETS = new int[] { 55, 55, 55, 55, 55, 55, 55, 55, 55, 66 };
 
 	public static int [ , ] WeaponsPowerPerUpgrade = new int[ , ]{{25, 50, 75, 100, 125},
 		{50, 	75, 	100, 	150, 	200},
@@ -86,5 +97,5 @@ public class DataHelper{
     public static float SHIELD_TIME = 10;
     public static int COINS_LOSE_POINTS = 5;
 
-	
+    
 }

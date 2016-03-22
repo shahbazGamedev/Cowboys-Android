@@ -13,8 +13,10 @@ public class BulletMover : MonoBehaviour {
 	public Animator anim;
 	bool disabled;
 
+    public bool isBottle;
 	public bool isBomb;
 	public bool isDynamite;
+    public bool isArrow;
     public bool isMolotove;
     public bool isIceBomb;
 
@@ -105,18 +107,21 @@ public class BulletMover : MonoBehaviour {
             if (isBomb)
             {
                 Explode();
+                SoundManager.PlaySFX("Man_Bomb_Explosion");
             }
             if (isIceBomb)
             {
                 disabled = true;
                 GetComponent<SpriteRenderer>().enabled = false;
                 Freeze_Enemies();
+                SoundManager.PlaySFX("Man_IceBomb_Freez");
             }
             if (isDynamite && !disabled)
             {
                 NearestHits = Physics2D.OverlapCircleAll(transform.position, dynamiteRadius);
                 disabled = true;
                 Kill_3_Enemies();
+                SoundManager.PlaySFX("Man_Dynamit_Explosion");
             }
             if (isMolotove && !disabled)
             {
@@ -124,11 +129,14 @@ public class BulletMover : MonoBehaviour {
                 disabled = true;
                 GetComponent<SpriteRenderer>().enabled = false;
                 Kill_4_Enemies();
+                SoundManager.PlaySFX("Man_Molotov_Hit_Crash");
             }
             else
             {
+
                 other.gameObject.SendMessage("ApplyDamage", damage);
                 
+               // ;
                 DisableBullet();
             }
         }
@@ -144,18 +152,22 @@ public class BulletMover : MonoBehaviour {
             if (isBomb)
             {
                 Explode();
+                SoundManager.PlaySFX("Man_Bomb_Explosion");
             }
             if (isIceBomb)
             {
                 disabled = true;
                 GetComponent<SpriteRenderer>().enabled = false;
                 Freeze_Enemies();
+                SoundManager.PlaySFX("Man_IceBomb_Freez");
             }
             if (isDynamite && !disabled)
             {
                 NearestHits = Physics2D.OverlapCircleAll(transform.position, dynamiteRadius);
                 disabled = true;
                 Kill_3_Enemies();
+                SoundManager.PlaySFX("Man_Dynamit_Explosion");
+                
             }
             if (isMolotove && !disabled)
             {
@@ -163,9 +175,15 @@ public class BulletMover : MonoBehaviour {
                 disabled = true;
                 GetComponent<SpriteRenderer>().enabled = false;
                 Kill_4_Enemies();
+                SoundManager.PlaySFX("Man_Molotov_Hit_Crash");
             }
             else
             {
+                if(isBottle)
+                    SoundManager.PlaySFX(SoundManager.LoadFromGroup("BottleHitGroup"));
+                if(isArrow)
+                    SoundManager.PlaySFX("Man_Arrow_Hit _And _Button");
+                    
                 other.gameObject.SendMessage("ApplyDamage", damage);
 
                 DisableBullet();
@@ -371,6 +389,7 @@ public class BulletMover : MonoBehaviour {
 
     void Freeze_Enemies()
     {
+
         EnemiesArea = GameObject.FindGameObjectsWithTag("Enemy");
         for (int i = 0; i < EnemiesArea.Length; i++)
         {

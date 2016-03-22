@@ -100,6 +100,9 @@ public class GameMaster : MonoBehaviour
 
     public bool RankWithPlayerHealth;
 
+
+
+
     void Awake()
     {
         //temp for test
@@ -170,6 +173,7 @@ public class GameMaster : MonoBehaviour
     }
     void DropGoldenStar()
     {
+        SoundManager.PlaySFX("Falling_Star");
         GoldenStarGO.SetActive(true);
     }
 
@@ -198,6 +202,7 @@ public class GameMaster : MonoBehaviour
     public void TakeGoldenStar()
     {
         starsCount++;
+        SoundManager.PlaySFX("Collect_Star");
     }
 
     public void ChangeToKid()
@@ -276,7 +281,7 @@ public class GameMaster : MonoBehaviour
             {
                 starsIcons[i].SetActive(true);
             }
-
+            SoundManager.StopSFX();
 
         }
 
@@ -285,6 +290,7 @@ public class GameMaster : MonoBehaviour
     {
         if (!isDead)
         {
+            SoundManager.PlaySFX("Human_Die");
             CancelInvoke("DropGoldenStar");
             Invoke("DisplayRevive", delayToLose);
             isDead = true;
@@ -453,6 +459,11 @@ public class GameMaster : MonoBehaviour
         }
     }
 
+    public void ResumePausedSFXs()
+    {
+        if (player.GetComponent<DynamicPlayerController>())
+            player.GetComponent<DynamicPlayerController>().StartDonkeyEffectSound();
+    }
 
     public void GoToMainMenu()
     {

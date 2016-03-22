@@ -55,6 +55,7 @@ public class Weapons : MonoBehaviour {
 	}
 
 	public void SpawnManShooting(){
+        SoundManager.PlaySFX(DataHelper.SFX_FIRING[currentWeapon]);
         if (currentWeapon == 6)
         {
             if (spCntScript)
@@ -138,6 +139,7 @@ public class Weapons : MonoBehaviour {
             mngScript.currentBulletsCounts[currentWeapon]--;
             mngScript.AdjustPUsBullets(currentWeapon, mngScript.currentBulletsCounts[currentWeapon]);
         }
+        
 	}
 
 	private void FireNormal(int weap, int weapLevel){
@@ -330,6 +332,7 @@ public class Weapons : MonoBehaviour {
 
     public void FireElecticBomb()
     {
+        SoundManager.PlaySFX("Man_Electric_thunder_Shoot");
         mngScript.DisplayElectricFieldFX();
         GameObject[] EnemiesArea;
         EnemiesArea = GameObject.FindGameObjectsWithTag("Enemy");
@@ -341,6 +344,7 @@ public class Weapons : MonoBehaviour {
 
         mngScript.currentBulletsCounts[DataHelper.ELECTRIC_BOMB_INDEX]--;
         mngScript.AdjustPUsBullets(DataHelper.ELECTRIC_BOMB_INDEX, mngScript.currentBulletsCounts[DataHelper.ELECTRIC_BOMB_INDEX]);
+        
     }
 
     public void FireShiled()
@@ -379,6 +383,7 @@ public class Weapons : MonoBehaviour {
         bmScript.SetDestination(mousePos);
 
 		bullet.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+        SoundManager.PlaySFX("Kid_Shoot");
 	}
 
 	void Update(){

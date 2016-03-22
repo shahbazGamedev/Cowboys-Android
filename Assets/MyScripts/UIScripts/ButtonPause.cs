@@ -14,7 +14,7 @@ public class ButtonPause : MonoBehaviour {
 		if(Time.timeScale == 1){
 			Time.timeScale = 0;
 			PauseScreen.SetActive(true);
-
+            SoundManager.StopSFX();
 		}
 	}
 }
